@@ -3008,7 +3008,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I08X",
@@ -3401,7 +3401,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "ajen",
@@ -3618,7 +3618,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I07O",
@@ -3794,7 +3794,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I06F",
@@ -4126,7 +4126,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I07R",
@@ -4360,7 +4360,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I0BJ",
@@ -4427,7 +4427,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I085",
@@ -4623,7 +4623,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I0C4",
@@ -4793,7 +4793,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "rhth",
@@ -5092,7 +5092,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I067",
@@ -5280,7 +5280,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "kysn",
@@ -5490,7 +5490,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "odef",
@@ -6948,7 +6948,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "ratc",
@@ -7239,7 +7239,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "belv",
@@ -7475,7 +7475,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I0D2",
@@ -7686,7 +7686,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I0EG",
@@ -7856,7 +7856,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "kymn",
@@ -8105,7 +8105,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "srbd",
@@ -8407,7 +8407,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "ocor",
@@ -8635,7 +8635,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I0JS",
@@ -8799,7 +8799,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I0LX",
@@ -8970,7 +8970,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I0O3",
@@ -9172,7 +9172,7 @@
     "grade": 0,
     "type": "Token",
     "color": "DAA520",
-    "droprate": 0.00005
+    "droprate": 5e-05
   },
   {
     "id": "I014",
@@ -26752,5 +26752,527 @@
     "notes": [
       "General Recipe: Wing + Wing Frame"
     ]
+  },
+  {
+    "id": "pnvl",
+    "name": "Lullaby",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "manh",
+    "name": "Grim Scythe",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "ram2",
+    "name": "Horn of Ruin",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "shas",
+    "name": "Dragon Buster",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "ktrm",
+    "name": "Horn of Demon Lord",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "skrt",
+    "name": "Icicle Storm",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "thle",
+    "name": "Ashifel, the Spear of Death",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "shrs",
+    "name": "Griveddon, the Bow of Chaos",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0S9",
+    "name": "Eye of the Blood God",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0S7",
+    "name": "Soul Chaser",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0S5",
+    "name": "Mask of Demigod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0S1",
+    "name": "Crown of Cataclysm",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RQ",
+    "name": "Frost Herald's Garment",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RN",
+    "name": "Heirloom of Lazarus",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RM",
+    "name": "Key of Earth",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RH",
+    "name": "Star of Apotheosis",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RG",
+    "name": "Magical Coin",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RE",
+    "name": "Crescendo of Madness",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QJ",
+    "name": "Summer Event Ticket",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QI",
+    "name": "Soulrender",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q1",
+    "name": "Prius Copper Coin",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PX",
+    "name": "Set Recall Point",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PG",
+    "name": "Invitation to Pumpkin Land",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LM",
+    "name": "Illumination",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LK",
+    "name": "Primal Shard",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LJ",
+    "name": "Heart of Lion",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LI",
+    "name": "Splash Slipper",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LG",
+    "name": "Apocalypse Prime",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JI",
+    "name": "Winter Festival Invitation",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0J0",
+    "name": "Super Reverse",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GP",
+    "name": "SeaSea Ring",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GO",
+    "name": "SeaSea Hat",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GN",
+    "name": "SeaSea Clothing",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GM",
+    "name": "SeaSea Orb",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GJ",
+    "name": "SeaSea Cave Ticket",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0ET",
+    "name": "Eye of Truth",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0EN",
+    "name": "Smoll Ghost Invitation",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AR",
+    "name": "Audentia, the Staff of Glory",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AQ",
+    "name": "Glorius, the Bow of Glory",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AP",
+    "name": "Praute, the Sword of Glory",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AO",
+    "name": "Vagabund, the Greatsword of Glory",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AI",
+    "name": "Reverse Soul",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AH",
+    "name": "Reverse Intellect",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AG",
+    "name": "Reverse Agility",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AF",
+    "name": "Reverse Strength",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I09Y",
+    "name": "Heartrender",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I094",
+    "name": "Spider Cave Expedition",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I07V",
+    "name": "Small Mana Heart",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I05E",
+    "name": "Crimson Whisper",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02Z",
+    "name": "Coil of Ouroboros",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02Y",
+    "name": "Herald of the Void",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02X",
+    "name": "Animus, the Robe of Souls",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02R",
+    "name": "Bag of Sentience",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I01Y",
+    "name": "Cage of Shadow Fiend",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I01W",
+    "name": "Plates of Dawn",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I01P",
+    "name": "Plates of Divine Blood",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I01A",
+    "name": "Primal Flame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I00K",
+    "name": "Adventurer Clothing",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I00A",
+    "name": "Iron Sword",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I007",
+    "name": "Combat Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I00Z",
+    "name": "Aegis of Avalon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I010",
+    "name": "Wings of Descender",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I021",
+    "name": "ARCANA TEMPLATE",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I022",
+    "name": "Ordius, the Divine Lance",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I023",
+    "name": "Sunstone",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I024",
+    "name": "Godslayer Signet",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I026",
+    "name": "Soul Rift",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02C",
+    "name": "Celestial Wind",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02F",
+    "name": "Guardian of Sky and Earth",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02G",
+    "name": "Celestial Crown",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02H",
+    "name": "Void Seraph",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02I",
+    "name": "Heaven's Fall",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02J",
+    "name": "Exsolus, the Armor of the Absolute",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02K",
+    "name": "Righteous Flame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02L",
+    "name": "Frostmoon Crown",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I030",
+    "name": "Madness of Old Gods",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I031",
+    "name": "Codex of Light",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I032",
+    "name": "Cape of the Saint",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I033",
+    "name": "item",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I034",
+    "name": "item",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I035",
+    "name": "item",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I036",
+    "name": "item",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I037",
+    "name": "Dark Lotus",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03A",
+    "name": "Primordial Heart",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03J",
+    "name": "Soulrender",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03V",
+    "name": "Ordius, the Divine Lance",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03W",
+    "name": "Righteous Flame",
+    "koreanname": "",
+    "description": ""
   }
 ]
