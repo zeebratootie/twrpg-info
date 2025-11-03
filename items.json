@@ -26754,6 +26754,84 @@
     ]
   },
   {
+    "id": "desc",
+    "name": "Teleport Dagger",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "fgdg",
+    "name": "Candy of Mana",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "wild",
+    "name": "Apple Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "sres",
+    "name": "Grape Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "pdiv",
+    "name": "Soul Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "totw",
+    "name": "Blueberry Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "fgfh",
+    "name": "Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "brac",
+    "name": "blank",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "pghe",
+    "name": "Icicle Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "pgma",
+    "name": "Cinnamon Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "tdx2",
+    "name": "Delusional Waifu Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "texp",
+    "name": "Halloween Witch Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "tin2",
+    "name": "Herb",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "pnvl",
     "name": "Lullaby",
     "koreanname": "",
@@ -26766,8 +26844,26 @@
     "description": ""
   },
   {
+    "id": "tdex",
+    "name": "Mini Snowman Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rej2",
+    "name": "Santa Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "ram2",
     "name": "Horn of Ruin",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "stwp",
+    "name": "Token Token",
     "koreanname": "",
     "description": ""
   },
@@ -26796,14 +26892,104 @@
     "description": ""
   },
   {
+    "id": "wolg",
+    "name": "Terrain Check",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "lure",
+    "name": "Penguin King Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "tels",
+    "name": "Count's Old Cape",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "shrs",
     "name": "Griveddon, the Bow of Chaos",
     "koreanname": "",
     "description": ""
   },
   {
+    "id": "gold",
+    "name": "Halloween Ghost Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "lmbr",
+    "name": "Mini Santa MK2 Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rre2",
+    "name": "Chaos Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rsps",
+    "name": "SeaSea Girl 2 Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rman",
+    "name": "Halloween Kid Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rma2",
+    "name": "Halloween Spider Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rreb",
+    "name": "SeaSea Girl 3 Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rhe2",
+    "name": "Tasty Meat",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rhe3",
+    "name": "Halloween Golem Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "rdis",
+    "name": "SeaSea Girl 1 Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0SA",
+    "name": "Ticket - Paradise",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0S9",
     "name": "Eye of the Blood God",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0S8",
+    "name": "Mystery Box",
     "koreanname": "",
     "description": ""
   },
@@ -26820,14 +27006,98 @@
     "description": ""
   },
   {
+    "id": "I0S4",
+    "name": "Rainbow Cat Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0S3",
+    "name": "Happy Hour Bonus",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0S2",
+    "name": "Inspect Loot",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0S1",
     "name": "Crown of Cataclysm",
     "koreanname": "",
     "description": ""
   },
   {
+    "id": "I0S0",
+    "name": "Scent of Summer",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RZ",
+    "name": "Summer Dream Icon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RY",
+    "name": "Brave Crab Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RX",
+    "name": "Summer's Gift",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RW",
+    "name": "Azure Wings",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RV",
+    "name": "Magical Gravestone",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RT",
+    "name": "Corrupt Energy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RS",
+    "name": "Life Energy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RR",
+    "name": "Event ON/OFF",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0RQ",
     "name": "Frost Herald's Garment",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RP",
+    "name": "Azure Trail Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RO",
+    "name": "Blue Rune Aura",
     "koreanname": "",
     "description": ""
   },
@@ -26844,6 +27114,30 @@
     "description": ""
   },
   {
+    "id": "I0RL",
+    "name": "Trade Key of Earth",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RK",
+    "name": "Christmas Tree",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RJ",
+    "name": "Glacier Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RI",
+    "name": "Snow Sled",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0RH",
     "name": "Star of Apotheosis",
     "koreanname": "",
@@ -26856,8 +27150,152 @@
     "description": ""
   },
   {
+    "id": "I0RF",
+    "name": "Change Difficulty",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0RE",
     "name": "Crescendo of Madness",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RD",
+    "name": "Ticket - Seaside",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RC",
+    "name": "Spooky Night Icon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RB",
+    "name": "Hell Hound",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0R9",
+    "name": "(Special) Bloodstorm Invisibility",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0R8",
+    "name": "Lightbringer's Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0R5",
+    "name": "Coin Conversion",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0R1",
+    "name": "Shadow Dragon Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0R0",
+    "name": "Silverback Wolf Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QZ",
+    "name": "Next Page",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QY",
+    "name": "Archangel Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QX",
+    "name": "Flame Nightmare Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QW",
+    "name": "Wings of Death Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QV",
+    "name": "Protector of Nature Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QU",
+    "name": "Death Devourer Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QT",
+    "name": "Death Weaver Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QS",
+    "name": "Death Fiend Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QR",
+    "name": "Valtora Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QQ",
+    "name": "Ifrit Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QP",
+    "name": "Nereid Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QO",
+    "name": "Agareth Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QN",
+    "name": "Exchange Coin of Effort",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QL",
+    "name": "Crab Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QK",
+    "name": "Monster Lobster",
     "koreanname": "",
     "description": ""
   },
@@ -26874,8 +27312,86 @@
     "description": ""
   },
   {
+    "id": "I0QG",
+    "name": "Wings of Joy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QF",
+    "name": "Wings of Dusk",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QD",
+    "name": "Wings of Vanquisher",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QC",
+    "name": "Skylord",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QB",
+    "name": "Resummon Boss",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QA",
+    "name": "Forfeit Loot",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q9",
+    "name": "Trade Key of Sea",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q8",
+    "name": "Trade Key of Flame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q7",
+    "name": "Trade Key of Storm",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q6",
+    "name": "Ticket - Prius Forward Camp",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q5",
+    "name": "Ticket - Volcanic Lands",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0Q1",
     "name": "Prius Copper Coin",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q0",
+    "name": "Grim Reaper (Mount)",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PZ",
+    "name": "Obtain Loot",
     "koreanname": "",
     "description": ""
   },
@@ -26886,14 +27402,356 @@
     "description": ""
   },
   {
+    "id": "I0PW",
+    "name": "Weird Event",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PV",
+    "name": "Purple Lucky Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PU",
+    "name": "Firework",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PT",
+    "name": "Mana Ancient (Mount)",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PS",
+    "name": "Shadow Dragon (Mount)",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PR",
+    "name": "(Special) Release Stat Points",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PQ",
+    "name": "Slayer Boots Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PM",
+    "name": "Red Lotus Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PL",
+    "name": "Exchange Coin of Effort",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PK",
+    "name": "Warm Soul Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PJ",
+    "name": "Cold Soul Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PI",
+    "name": "Halloween Spider",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PH",
+    "name": "Exchange Coin of Effort",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0PG",
     "name": "Invitation to Pumpkin Land",
     "koreanname": "",
     "description": ""
   },
   {
+    "id": "I0PF",
+    "name": "Mystic Soul Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PE",
+    "name": "Evil Soul Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PD",
+    "name": "Shining Soul Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PC",
+    "name": "Orange Lucky Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PB",
+    "name": "Smoll Ghost Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0P7",
+    "name": "Wings of Death (Mount)",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0OY",
+    "name": "Costume of Effort",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0OX",
+    "name": "Wings of Purification Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0OR",
+    "name": "Cape of Deep Abyss Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0OQ",
+    "name": "Wings of Immortal Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0OP",
+    "name": "Soul Devourer Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0OA",
+    "name": "Wings of Night Lord Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0O9",
+    "name": "Wings of Frost Lord Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0O8",
+    "name": "Wings of Flame Lord Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0O7",
+    "name": "Brave Heart Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0O6",
+    "name": "Ruler of the Skies Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0NY",
+    "name": "Purchase Rare Items",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0NX",
+    "name": "Sell Rare Items",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0N2",
+    "name": "Craft",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MX",
+    "name": "Rainbow Flavored Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MW",
+    "name": "Weird Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MV",
+    "name": "Invisible Wings",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MU",
+    "name": "Rainbow Cat",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MS",
+    "name": "Sealed Frozen Debris",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MR",
+    "name": "Sealed Antimatter",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MQ",
+    "name": "Sealed Essence of Darkness",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MP",
+    "name": "Sealed Essence of Light",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MO",
+    "name": "Sealed God's Page",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MN",
+    "name": "Sealed Steel of God",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MM",
+    "name": "Sealed Purified Water of Nature",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0ML",
+    "name": "Sealed Fragment of Wind",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MK",
+    "name": "Sealed Dark Crystal",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MJ",
+    "name": "Sealed Heart of Fire",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MI",
+    "name": "Sealed Proof of Purification",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MH",
+    "name": "Sealed Spirit of Abyss",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MG",
+    "name": "Sealed Orb of Oblivion",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0MF",
+    "name": "Sealed Skeleton Bone",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0ME",
+    "name": "Sealed Fragment of Oblivion",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0M6",
+    "name": "Exchange Winter Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0M5",
+    "name": "Rabbit Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0M4",
+    "name": "Blue Lucky Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0M3",
+    "name": "Meat",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LQ",
+    "name": "Exchange Halloween Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0LM",
     "name": "Illumination",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LL",
+    "name": "Demon Lord Rod",
     "koreanname": "",
     "description": ""
   },
@@ -26916,8 +27774,134 @@
     "description": ""
   },
   {
+    "id": "I0LH",
+    "name": "Yellow Lucky Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0LG",
     "name": "Apocalypse Prime",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LF",
+    "name": "Receive Summer Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LE",
+    "name": "Shining Seashell",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LD",
+    "name": "Duck Rider Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LB",
+    "name": "Walrus",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LA",
+    "name": "Blue Lotus Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0L7",
+    "name": "Wish (Normal)",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0L6",
+    "name": "Special Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0L5",
+    "name": "Retrieve Items",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0L3",
+    "name": "UFO",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0KW",
+    "name": "Bow Master Halloween Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0KV",
+    "name": "Aura of Corruption",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0KU",
+    "name": "Aura of Corruption Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0KT",
+    "name": "(Special) Illusion Invisibility",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0KS",
+    "name": "Archangel Wings Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0KR",
+    "name": "Protection of the Fairies Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JP",
+    "name": "Sword Enchanter Halloween Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JO",
+    "name": "Warlock Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JN",
+    "name": "Rudolph",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JM",
+    "name": "Mini Fairy Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JJ",
+    "name": "Snow Crystal",
     "koreanname": "",
     "description": ""
   },
@@ -26928,8 +27912,356 @@
     "description": ""
   },
   {
+    "id": "I0JH",
+    "name": "Halloween Mage (Fire) Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JG",
+    "name": "Wings of Blood Lord Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JE",
+    "name": "Bow Master Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JD",
+    "name": "Swordsman Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0JC",
+    "name": "Mage (Wind) Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0J5",
+    "name": "Immortal Kitty Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0J4",
+    "name": "Gunner Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0J3",
+    "name": "Merchant Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0J2",
+    "name": "Enchanter Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0J1",
+    "name": "Reaper Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0J0",
     "name": "Super Reverse",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0IW",
+    "name": "Snowball",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0IV",
+    "name": "Lumber",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0IT",
+    "name": "Ammo",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0ID",
+    "name": "Casual Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0IC",
+    "name": "Weird Weird Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0IA",
+    "name": "Bat Wing Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I9",
+    "name": "Wings of Phoenix Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I8",
+    "name": "Ring of Lies",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I7",
+    "name": "Slayer's Wing Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I6",
+    "name": "Guardian of the Skies Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I5",
+    "name": "Wings of Nature Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I4",
+    "name": "Storm Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I3",
+    "name": "Grim Heart Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I2",
+    "name": "Cloak of the Fallen Shadows Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I1",
+    "name": "Soul of the Dead Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0I0",
+    "name": "Soul Eater Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HZ",
+    "name": "Wanderer's Cloak Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HY",
+    "name": "Embrace of Nature Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HX",
+    "name": "Shroud of Perseverance Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HW",
+    "name": "Wings of Fury Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HV",
+    "name": "Cape of the Count Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HU",
+    "name": "Pure Crystal Wing Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HT",
+    "name": "Cape of Corrupt Flame Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HS",
+    "name": "Frozen Heart Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HR",
+    "name": "Corrupt Crystal Wing Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HQ",
+    "name": "Dragon Wing Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HP",
+    "name": "Frost Fairy Wing Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HO",
+    "name": "Fairy Wing Frame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HM",
+    "name": "Weird Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HL",
+    "name": "Destroy Memory Stone",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HI",
+    "name": "Snow Staff",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HH",
+    "name": "Snow Wings",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HG",
+    "name": "Blue Angel Wings",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HF",
+    "name": "Halloween Costume 2",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HE",
+    "name": "New Year Costume 2",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HD",
+    "name": "Shining Candy Fragment",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HC",
+    "name": "Seal of Rebirth",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HB",
+    "name": "Witch's Bizarre Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HA",
+    "name": "Black Cat Icon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0H9",
+    "name": "Spooky Ghost Icon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0H8",
+    "name": "Witch's Weird Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0H7",
+    "name": "Mini Devil Wings",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0H6",
+    "name": "Power Recorder",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0H5",
+    "name": "New Years Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0H4",
+    "name": "Christmas Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0H3",
+    "name": "Halloween Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GX",
+    "name": "Ddoonge Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GQ",
+    "name": "SeaSea Wings",
     "koreanname": "",
     "description": ""
   },
@@ -26964,14 +28296,188 @@
     "description": ""
   },
   {
+    "id": "I0GI",
+    "name": "Spirit of Passion",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GF",
+    "name": "Spirit of Summer",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GE",
+    "name": "MysteryAura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GC",
+    "name": "Summer Dress",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0GB",
+    "name": "Get Icons Back",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0FT",
+    "name": "Beach Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0FS",
+    "name": "SeaSea Icon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0FD",
+    "name": "Winter's Gift",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0FC",
+    "name": "Santa Hat",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0ET",
     "name": "Eye of Truth",
     "koreanname": "",
     "description": ""
   },
   {
+    "id": "I0ER",
+    "name": "Mystical Nameplate",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0EQ",
+    "name": "Shining Halloween Wings",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0EP",
+    "name": "NyanNyan Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0EO",
+    "name": "Witch's Magical Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0EN",
     "name": "Smoll Ghost Invitation",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0EM",
+    "name": "Mystical Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0EK",
+    "name": "Fragment of Oblivion",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0DM",
+    "name": "Halloween Candy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0DK",
+    "name": "Near Death",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0DJ",
+    "name": "Holy Water",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0D3",
+    "name": "Trade Holy Water",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0D0",
+    "name": "Nature Exploration",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0CZ",
+    "name": "The Undying",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0CY",
+    "name": "The Dark Magician",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0CX",
+    "name": "The Omen of Destruction",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0CW",
+    "name": "Ritual of Nightmare",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0CV",
+    "name": "Sealed Tower",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0CL",
+    "name": "Prayer to the Orb",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0CI",
+    "name": "Mask tainted with blood",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0BA",
+    "name": "Melon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0AT",
+    "name": "Sealed Archangel Wings",
     "koreanname": "",
     "description": ""
   },
@@ -27042,8 +28548,128 @@
     "description": ""
   },
   {
+    "id": "I06M",
+    "name": "Essence of Chaos",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I06B",
+    "name": "The First God-Devil War",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I06A",
+    "name": "Twisted Magician",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I069",
+    "name": "Halloween Party",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I066",
+    "name": "Cave of Frost",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I05Z",
+    "name": "Everfrost",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I05Y",
+    "name": "Ruler of the Sea",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I05E",
     "name": "Crimson Whisper",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I058",
+    "name": "The Holy Grounds",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I057",
+    "name": "Black Skies",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I056",
+    "name": "The Church Within My Castle",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I051",
+    "name": "Castle Avalon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I050",
+    "name": "Ticket - The Duchy of Wallachia",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I04Z",
+    "name": "Ticket - Frosty Snowfield",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I04Y",
+    "name": "Primal Remnant",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I04T",
+    "name": "Alchemy",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I04H",
+    "name": "Frostlord",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I04E",
+    "name": "Summer Costume Exchange",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I04D",
+    "name": "Red Shining Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I04C",
+    "name": "Smoll Ghost Rod 2",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03Y",
+    "name": "Challenger's Potion",
     "koreanname": "",
     "description": ""
   },
@@ -27066,8 +28692,38 @@
     "description": ""
   },
   {
+    "id": "I02U",
+    "name": "Kamael's Soulstone",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I02R",
     "name": "Bag of Sentience",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02Q",
+    "name": "Ticket - Capital Prius",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02B",
+    "name": "Cake",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I029",
+    "name": "Bread",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I025",
+    "name": "Lord of the Forest",
     "koreanname": "",
     "description": ""
   },
@@ -27096,6 +28752,12 @@
     "description": ""
   },
   {
+    "id": "I00L",
+    "name": "Craft",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I00K",
     "name": "Adventurer Clothing",
     "koreanname": "",
@@ -27110,6 +28772,66 @@
   {
     "id": "I007",
     "name": "Combat Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I006",
+    "name": "Rest",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I004",
+    "name": "Stale Bread",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I003",
+    "name": "Bean Pouch",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I000",
+    "name": "Helicopter",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I001",
+    "name": "Blue Guardian Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I008",
+    "name": "Lucky Pouch",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I00M",
+    "name": "Star Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I00N",
+    "name": "Heart Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I00O",
+    "name": "Festive Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I00Y",
+    "name": "Costume Selection Ticket",
     "koreanname": "",
     "description": ""
   },
@@ -27204,6 +28926,24 @@
     "description": ""
   },
   {
+    "id": "I02N",
+    "name": "Holy Thread",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02O",
+    "name": "Divine Lotus",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I02P",
+    "name": "Dew of Paradise",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I030",
     "name": "Madness of Old Gods",
     "koreanname": "",
@@ -27258,8 +28998,74 @@
     "description": ""
   },
   {
+    "id": "I03E",
+    "name": "Snowman Icon",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03G",
+    "name": "Christmas Giant",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I03J",
     "name": "Soulrender",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03M",
+    "name": "Witch (New Year) Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03N",
+    "name": "Wish (Arcana)",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03O",
+    "name": "Sacrifice",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03P",
+    "name": "Borrow Challenger's Potion",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03Q",
+    "name": "Arcane Construct",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03R",
+    "name": "Absolute Rune",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03S",
+    "name": "Absolute Rune",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03T",
+    "name": "Shark",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03U",
+    "name": "Blue Comet",
     "koreanname": "",
     "description": ""
   },
