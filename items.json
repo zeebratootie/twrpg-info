@@ -9878,60 +9878,6 @@
     "droprate": 0.0001
   },
   {
-    "id": "I0IZ",
-    "name": "Key of Storm",
-    "koreanname": "폭풍의 열쇠",
-    "description": "Key that opens the door to Room of Storm",
-    "rank": "none",
-    "grade": 0,
-    "type": "Misc",
-    "color": "D8C1BA",
-    "recipe": [
-      {
-        "White Magic Stone": 3
-      },
-      {
-        "Chaos Magic Stone": 3
-      }
-    ]
-  },
-  {
-    "id": "I0JQ",
-    "name": "Key of Flame",
-    "koreanname": "화염의 열쇠",
-    "description": "Key that opens the door to Room of Flame",
-    "rank": "none",
-    "grade": 0,
-    "type": "Misc",
-    "color": "D8C1BA",
-    "recipe": [
-      {
-        "Red Magic Stone": 3
-      },
-      {
-        "Chaos Magic Stone": 3
-      }
-    ]
-  },
-  {
-    "id": "I0LS",
-    "name": "Key of Sea",
-    "koreanname": "바다의 열쇠",
-    "description": "Key that opens the door to Room of Sea",
-    "rank": "none",
-    "grade": 0,
-    "type": "Misc",
-    "color": "D8C1BA",
-    "recipe": [
-      {
-        "Blue Magic Stone": 3
-      },
-      {
-        "Chaos Magic Stone": 3
-      }
-    ]
-  },
-  {
     "id": "gldo",
     "name": "Rainbow Crystal Golem Token",
     "koreanname": "레인보우 크리스탈 골렘 토큰",
@@ -27018,12 +26964,6 @@
     "description": ""
   },
   {
-    "id": "I0S2",
-    "name": "Inspect Loot",
-    "koreanname": "",
-    "description": ""
-  },
-  {
     "id": "I0S1",
     "name": "Crown of Cataclysm",
     "koreanname": "",
@@ -27104,12 +27044,6 @@
   {
     "id": "I0RN",
     "name": "Heirloom of Lazarus",
-    "koreanname": "",
-    "description": ""
-  },
-  {
-    "id": "I0RM",
-    "name": "Key of Earth",
     "koreanname": "",
     "description": ""
   },
@@ -27332,12 +27266,6 @@
   {
     "id": "I0QC",
     "name": "Skylord",
-    "koreanname": "",
-    "description": ""
-  },
-  {
-    "id": "I0QB",
-    "name": "Resummon Boss",
     "koreanname": "",
     "description": ""
   },
@@ -28614,12 +28542,6 @@
     "description": ""
   },
   {
-    "id": "I051",
-    "name": "Castle Avalon",
-    "koreanname": "",
-    "description": ""
-  },
-  {
     "id": "I050",
     "name": "Ticket - The Duchy of Wallachia",
     "koreanname": "",
@@ -29018,12 +28940,6 @@
   {
     "id": "I03M",
     "name": "Witch (New Year) Rod",
-    "koreanname": "",
-    "description": ""
-  },
-  {
-    "id": "I03N",
-    "name": "Wish (Arcana)",
     "koreanname": "",
     "description": ""
   },
