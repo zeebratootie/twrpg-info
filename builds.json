@@ -61,7 +61,7 @@
     {
         "for": "Berserker",
         "type": "Styrix",
-        "order": 4,
+        "order": 5,
         "stat": "STR",
         "version": "69u2",
         "items": {
