@@ -891,5 +891,1895 @@
         "spec": [
             "No Specs!"
         ]
+    },
+    {
+        "id": "H02E",
+        "name": "Lyrio Farn",
+        "heroClass": "Sniper",
+        "icon": "SniperIcon",
+        "altOf": "H015",
+        "description": [
+            "Skin/costume variant of Lyrio Farn (Sniper)."
+        ]
+    },
+    {
+        "id": "H045",
+        "name": "Lyrio Farn",
+        "heroClass": "Sniper",
+        "icon": "SniperIcon",
+        "altOf": "H015",
+        "description": [
+            "Skin/costume variant of Lyrio Farn (Sniper)."
+        ]
+    },
+    {
+        "id": "H05D",
+        "name": "Lyrio Farn",
+        "heroClass": "Sniper",
+        "icon": "SniperIcon",
+        "altOf": "H015",
+        "description": [
+            "Skin/costume variant of Lyrio Farn (Sniper)."
+        ]
+    },
+    {
+        "id": "H06R",
+        "name": "Lyrio Farn",
+        "heroClass": "Sniper",
+        "icon": "SniperIcon",
+        "altOf": "H015",
+        "description": [
+            "Skin/costume variant of Lyrio Farn (Sniper)."
+        ]
+    },
+    {
+        "id": "H090",
+        "name": "Lyrio Farn",
+        "heroClass": "Sniper",
+        "icon": "SniperIcon",
+        "altOf": "H015",
+        "description": [
+            "Skin/costume variant of Lyrio Farn (Sniper)."
+        ]
+    },
+    {
+        "id": "H020",
+        "name": "Stella Livve",
+        "heroClass": "Soul Weaver",
+        "icon": "SoulWeaverIcon",
+        "altOf": "H008",
+        "description": [
+            "Skin/costume variant of Stella Livve (Soul Weaver)."
+        ]
+    },
+    {
+        "id": "H03H",
+        "name": "Stella Livve",
+        "heroClass": "Soul Weaver",
+        "icon": "SoulWeaverIcon",
+        "altOf": "H008",
+        "description": [
+            "Skin/costume variant of Stella Livve (Soul Weaver)."
+        ]
+    },
+    {
+        "id": "H03M",
+        "name": "Stella Livve",
+        "heroClass": "Soul Weaver",
+        "icon": "SoulWeaverIcon",
+        "altOf": "H008",
+        "description": [
+            "Skin/costume variant of Stella Livve (Soul Weaver)."
+        ]
+    },
+    {
+        "id": "H04I",
+        "name": "Stella Livve",
+        "heroClass": "Soul Weaver",
+        "icon": "SoulWeaverIcon",
+        "altOf": "H008",
+        "description": [
+            "Skin/costume variant of Stella Livve (Soul Weaver)."
+        ]
+    },
+    {
+        "id": "H06O",
+        "name": "Stella Livve",
+        "heroClass": "Soul Weaver",
+        "icon": "SoulWeaverIcon",
+        "altOf": "H008",
+        "description": [
+            "Skin/costume variant of Stella Livve (Soul Weaver)."
+        ]
+    },
+    {
+        "id": "H09J",
+        "name": "Stella Livve",
+        "heroClass": "Soul Weaver",
+        "icon": "SoulWeaverIcon",
+        "altOf": "H008",
+        "description": [
+            "Skin/costume variant of Stella Livve (Soul Weaver)."
+        ]
+    },
+    {
+        "id": "H02B",
+        "name": "Elric",
+        "heroClass": "Alchemist",
+        "icon": "AlchemistIcon",
+        "altOf": "H01I",
+        "description": [
+            "Skin/costume variant of Elric (Alchemist)."
+        ]
+    },
+    {
+        "id": "H037",
+        "name": "Elric",
+        "heroClass": "Alchemist",
+        "icon": "AlchemistIcon",
+        "altOf": "H01I",
+        "description": [
+            "Skin/costume variant of Elric (Alchemist)."
+        ]
+    },
+    {
+        "id": "H04H",
+        "name": "Elric",
+        "heroClass": "Alchemist",
+        "icon": "AlchemistIcon",
+        "altOf": "H01I",
+        "description": [
+            "Skin/costume variant of Elric (Alchemist)."
+        ]
+    },
+    {
+        "id": "H07R",
+        "name": "Elric",
+        "heroClass": "Alchemist",
+        "icon": "AlchemistIcon",
+        "altOf": "H01I",
+        "description": [
+            "Skin/costume variant of Elric (Alchemist)."
+        ]
+    },
+    {
+        "id": "H08U",
+        "name": "Elric",
+        "heroClass": "Alchemist",
+        "icon": "AlchemistIcon",
+        "altOf": "H01I",
+        "description": [
+            "Skin/costume variant of Elric (Alchemist)."
+        ]
+    },
+    {
+        "id": "H02W",
+        "name": "Haran Tenebras",
+        "heroClass": "Warlock",
+        "icon": "WarlockIcon",
+        "altOf": "H00J",
+        "description": [
+            "Skin/costume variant of Haran Tenebras (Warlock)."
+        ]
+    },
+    {
+        "id": "H03L",
+        "name": "Haran Tenebras",
+        "heroClass": "Warlock",
+        "icon": "WarlockIcon",
+        "altOf": "H00J",
+        "description": [
+            "Skin/costume variant of Haran Tenebras (Warlock)."
+        ]
+    },
+    {
+        "id": "H04J",
+        "name": "Haran Tenebras",
+        "heroClass": "Warlock",
+        "icon": "WarlockIcon",
+        "altOf": "H00J",
+        "description": [
+            "Skin/costume variant of Haran Tenebras (Warlock)."
+        ]
+    },
+    {
+        "id": "H056",
+        "name": "Haran Tenebras",
+        "heroClass": "Warlock",
+        "icon": "WarlockIcon",
+        "altOf": "H00J",
+        "description": [
+            "Skin/costume variant of Haran Tenebras (Warlock)."
+        ]
+    },
+    {
+        "id": "H06X",
+        "name": "Haran Tenebras",
+        "heroClass": "Warlock",
+        "icon": "WarlockIcon",
+        "altOf": "H00J",
+        "description": [
+            "Skin/costume variant of Haran Tenebras (Warlock)."
+        ]
+    },
+    {
+        "id": "H04A",
+        "name": "Loriro Livve",
+        "heroClass": "Blood Weaver",
+        "icon": "BloodWeaverIcon",
+        "altOf": "H02M",
+        "description": [
+            "Skin/costume variant of Loriro Livve (Blood Weaver)."
+        ]
+    },
+    {
+        "id": "H054",
+        "name": "Loriro Livve",
+        "heroClass": "Blood Weaver",
+        "icon": "BloodWeaverIcon",
+        "altOf": "H02M",
+        "description": [
+            "Skin/costume variant of Loriro Livve (Blood Weaver)."
+        ]
+    },
+    {
+        "id": "H05H",
+        "name": "Loriro Livve",
+        "heroClass": "Blood Weaver",
+        "icon": "BloodWeaverIcon",
+        "altOf": "H02M",
+        "description": [
+            "Skin/costume variant of Loriro Livve (Blood Weaver)."
+        ]
+    },
+    {
+        "id": "H06N",
+        "name": "Loriro Livve",
+        "heroClass": "Blood Weaver",
+        "icon": "BloodWeaverIcon",
+        "altOf": "H02M",
+        "description": [
+            "Skin/costume variant of Loriro Livve (Blood Weaver)."
+        ]
+    },
+    {
+        "id": "H02Q",
+        "name": "Rin T.",
+        "heroClass": "Fire Mage",
+        "icon": "FireMageIcon",
+        "altOf": "H005",
+        "description": [
+            "Skin/costume variant of Rin T. (Fire Mage)."
+        ]
+    },
+    {
+        "id": "H02R",
+        "name": "Rin T.",
+        "heroClass": "Fire Mage",
+        "icon": "FireMageIcon",
+        "altOf": "H005",
+        "description": [
+            "Skin/costume variant of Rin T. (Fire Mage)."
+        ]
+    },
+    {
+        "id": "H048",
+        "name": "Rin T.",
+        "heroClass": "Fire Mage",
+        "icon": "FireMageIcon",
+        "altOf": "H005",
+        "description": [
+            "Skin/costume variant of Rin T. (Fire Mage)."
+        ]
+    },
+    {
+        "id": "H04X",
+        "name": "Rin T.",
+        "heroClass": "Fire Mage",
+        "icon": "FireMageIcon",
+        "altOf": "H005",
+        "description": [
+            "Skin/costume variant of Rin T. (Fire Mage)."
+        ]
+    },
+    {
+        "id": "H07M",
+        "name": "Rin T.",
+        "heroClass": "Fire Mage",
+        "icon": "FireMageIcon",
+        "altOf": "H005",
+        "description": [
+            "Skin/costume variant of Rin T. (Fire Mage)."
+        ]
+    },
+    {
+        "id": "H027",
+        "name": "Rainbow R.",
+        "heroClass": "Shooter",
+        "icon": "ShooterIcon",
+        "altOf": "H00K",
+        "description": [
+            "Skin/costume variant of Rainbow R. (Shooter)."
+        ]
+    },
+    {
+        "id": "H033",
+        "name": "Rainbow R.",
+        "heroClass": "Shooter",
+        "icon": "ShooterIcon",
+        "altOf": "H00K",
+        "description": [
+            "Skin/costume variant of Rainbow R. (Shooter)."
+        ]
+    },
+    {
+        "id": "H03T",
+        "name": "Rainbow R.",
+        "heroClass": "Shooter",
+        "icon": "ShooterIcon",
+        "altOf": "H00K",
+        "description": [
+            "Skin/costume variant of Rainbow R. (Shooter)."
+        ]
+    },
+    {
+        "id": "H03U",
+        "name": "Rainbow R.",
+        "heroClass": "Shooter",
+        "icon": "ShooterIcon",
+        "altOf": "H00K",
+        "description": [
+            "Skin/costume variant of Rainbow R. (Shooter)."
+        ]
+    },
+    {
+        "id": "H047",
+        "name": "Rainbow R.",
+        "heroClass": "Shooter",
+        "icon": "ShooterIcon",
+        "altOf": "H00K",
+        "description": [
+            "Skin/costume variant of Rainbow R. (Shooter)."
+        ]
+    },
+    {
+        "id": "H06H",
+        "name": "Rainbow R.",
+        "heroClass": "Shooter",
+        "icon": "ShooterIcon",
+        "altOf": "H00K",
+        "description": [
+            "Skin/costume variant of Rainbow R. (Shooter)."
+        ]
+    },
+    {
+        "id": "H07S",
+        "name": "Rainbow R.",
+        "heroClass": "Shooter",
+        "icon": "ShooterIcon",
+        "altOf": "H00K",
+        "description": [
+            "Skin/costume variant of Rainbow R. (Shooter)."
+        ]
+    },
+    {
+        "id": "H04V",
+        "name": "Shiro",
+        "heroClass": "Sword Enchanter",
+        "icon": "SwordEnchanterIcon",
+        "altOf": "H04R",
+        "description": [
+            "Skin/costume variant of Shiro (Sword Enchanter)."
+        ]
+    },
+    {
+        "id": "H05N",
+        "name": "Shiro",
+        "heroClass": "Sword Enchanter",
+        "icon": "SwordEnchanterIcon",
+        "altOf": "H04R",
+        "description": [
+            "Skin/costume variant of Shiro (Sword Enchanter)."
+        ]
+    },
+    {
+        "id": "H05Y",
+        "name": "Shiro",
+        "heroClass": "Sword Enchanter",
+        "icon": "SwordEnchanterIcon",
+        "altOf": "H04R",
+        "description": [
+            "Skin/costume variant of Shiro (Sword Enchanter)."
+        ]
+    },
+    {
+        "id": "H06Z",
+        "name": "Shiro",
+        "heroClass": "Sword Enchanter",
+        "icon": "SwordEnchanterIcon",
+        "altOf": "H04R",
+        "description": [
+            "Skin/costume variant of Shiro (Sword Enchanter)."
+        ]
+    },
+    {
+        "id": "H05F",
+        "name": "Lucicree",
+        "heroClass": "Gunner",
+        "icon": "GunnerIcon",
+        "altOf": "H05B",
+        "description": [
+            "Skin/costume variant of Lucicree (Gunner)."
+        ]
+    },
+    {
+        "id": "H05O",
+        "name": "Lucicree",
+        "heroClass": "Gunner",
+        "icon": "GunnerIcon",
+        "altOf": "H05B",
+        "description": [
+            "Skin/costume variant of Lucicree (Gunner)."
+        ]
+    },
+    {
+        "id": "H05W",
+        "name": "Lucicree",
+        "heroClass": "Gunner",
+        "icon": "GunnerIcon",
+        "altOf": "H05B",
+        "description": [
+            "Skin/costume variant of Lucicree (Gunner)."
+        ]
+    },
+    {
+        "id": "H06G",
+        "name": "Lucicree",
+        "heroClass": "Gunner",
+        "icon": "GunnerIcon",
+        "altOf": "H05B",
+        "description": [
+            "Skin/costume variant of Lucicree (Gunner)."
+        ]
+    },
+    {
+        "id": "H06K",
+        "name": "Lucicree",
+        "heroClass": "Gunner",
+        "icon": "GunnerIcon",
+        "altOf": "H05B",
+        "description": [
+            "Skin/costume variant of Lucicree (Gunner)."
+        ]
+    },
+    {
+        "id": "H012",
+        "name": "Louis Arcienne",
+        "heroClass": "Swordsman",
+        "icon": "SwordsmanIcon",
+        "altOf": "H001",
+        "description": [
+            "Skin/costume variant of Louis Arcienne (Swordsman)."
+        ]
+    },
+    {
+        "id": "H02I",
+        "name": "Louis Arcienne",
+        "heroClass": "Swordsman",
+        "icon": "SwordsmanIcon",
+        "altOf": "H001",
+        "description": [
+            "Skin/costume variant of Louis Arcienne (Swordsman)."
+        ]
+    },
+    {
+        "id": "H04N",
+        "name": "Louis Arcienne",
+        "heroClass": "Swordsman",
+        "icon": "SwordsmanIcon",
+        "altOf": "H001",
+        "description": [
+            "Skin/costume variant of Louis Arcienne (Swordsman)."
+        ]
+    },
+    {
+        "id": "H05M",
+        "name": "Louis Arcienne",
+        "heroClass": "Swordsman",
+        "icon": "SwordsmanIcon",
+        "altOf": "H001",
+        "description": [
+            "Skin/costume variant of Louis Arcienne (Swordsman)."
+        ]
+    },
+    {
+        "id": "H06D",
+        "name": "Louis Arcienne",
+        "heroClass": "Swordsman",
+        "icon": "SwordsmanIcon",
+        "altOf": "H001",
+        "description": [
+            "Skin/costume variant of Louis Arcienne (Swordsman)."
+        ]
+    },
+    {
+        "id": "H08X",
+        "name": "Louis Arcienne",
+        "heroClass": "Swordsman",
+        "icon": "SwordsmanIcon",
+        "altOf": "H001",
+        "description": [
+            "Skin/costume variant of Louis Arcienne (Swordsman)."
+        ]
+    },
+    {
+        "id": "H0A6",
+        "name": "Louis Arcienne",
+        "heroClass": "Swordsman",
+        "icon": "SwordsmanIcon",
+        "altOf": "H001",
+        "description": [
+            "Skin/costume variant of Louis Arcienne (Swordsman)."
+        ]
+    },
+    {
+        "id": "H025",
+        "name": "Dorothy de Merrian",
+        "heroClass": "Elementalist",
+        "icon": "ElementalistIcon",
+        "altOf": "H009",
+        "description": [
+            "Skin/costume variant of Dorothy de Merrian (Elementalist)."
+        ]
+    },
+    {
+        "id": "H02A",
+        "name": "Dorothy de Merrian",
+        "heroClass": "Elementalist",
+        "icon": "ElementalistIcon",
+        "altOf": "H009",
+        "description": [
+            "Skin/costume variant of Dorothy de Merrian (Elementalist)."
+        ]
+    },
+    {
+        "id": "H04F",
+        "name": "Dorothy de Merrian",
+        "heroClass": "Elementalist",
+        "icon": "ElementalistIcon",
+        "altOf": "H009",
+        "description": [
+            "Skin/costume variant of Dorothy de Merrian (Elementalist)."
+        ]
+    },
+    {
+        "id": "H05S",
+        "name": "Dorothy de Merrian",
+        "heroClass": "Elementalist",
+        "icon": "ElementalistIcon",
+        "altOf": "H009",
+        "description": [
+            "Skin/costume variant of Dorothy de Merrian (Elementalist)."
+        ]
+    },
+    {
+        "id": "H07T",
+        "name": "Dorothy de Merrian",
+        "heroClass": "Elementalist",
+        "icon": "ElementalistIcon",
+        "altOf": "H009",
+        "description": [
+            "Skin/costume variant of Dorothy de Merrian (Elementalist)."
+        ]
+    },
+    {
+        "id": "H04D",
+        "name": "Sasuke",
+        "heroClass": "Lightning Mage",
+        "icon": "LightningMageIcon",
+        "altOf": "H021",
+        "description": [
+            "Skin/costume variant of Sasuke (Lightning Mage)."
+        ]
+    },
+    {
+        "id": "H04T",
+        "name": "Sasuke",
+        "heroClass": "Lightning Mage",
+        "icon": "LightningMageIcon",
+        "altOf": "H021",
+        "description": [
+            "Skin/costume variant of Sasuke (Lightning Mage)."
+        ]
+    },
+    {
+        "id": "H05Q",
+        "name": "Sasuke",
+        "heroClass": "Lightning Mage",
+        "icon": "LightningMageIcon",
+        "altOf": "H021",
+        "description": [
+            "Skin/costume variant of Sasuke (Lightning Mage)."
+        ]
+    },
+    {
+        "id": "H07Q",
+        "name": "Sasuke",
+        "heroClass": "Lightning Mage",
+        "icon": "LightningMageIcon",
+        "altOf": "H021",
+        "description": [
+            "Skin/costume variant of Sasuke (Lightning Mage)."
+        ]
+    },
+    {
+        "id": "H0A8",
+        "name": "Sasuke",
+        "heroClass": "Lightning Mage",
+        "icon": "LightningMageIcon",
+        "altOf": "H021",
+        "description": [
+            "Skin/costume variant of Sasuke (Lightning Mage)."
+        ]
+    },
+    {
+        "id": "H01Z",
+        "name": "Astarte",
+        "heroClass": "Crusader",
+        "icon": "CrusaderIcon",
+        "altOf": "H01V",
+        "description": [
+            "Skin/costume variant of Astarte (Crusader)."
+        ]
+    },
+    {
+        "id": "H02N",
+        "name": "Astarte",
+        "heroClass": "Crusader",
+        "icon": "CrusaderIcon",
+        "altOf": "H01V",
+        "description": [
+            "Skin/costume variant of Astarte (Crusader)."
+        ]
+    },
+    {
+        "id": "H02U",
+        "name": "Astarte",
+        "heroClass": "Crusader",
+        "icon": "CrusaderIcon",
+        "altOf": "H01V",
+        "description": [
+            "Skin/costume variant of Astarte (Crusader)."
+        ]
+    },
+    {
+        "id": "H03C",
+        "name": "Astarte",
+        "heroClass": "Crusader",
+        "icon": "CrusaderIcon",
+        "altOf": "H01V",
+        "description": [
+            "Skin/costume variant of Astarte (Crusader)."
+        ]
+    },
+    {
+        "id": "H03Z",
+        "name": "Astarte",
+        "heroClass": "Crusader",
+        "icon": "CrusaderIcon",
+        "altOf": "H01V",
+        "description": [
+            "Skin/costume variant of Astarte (Crusader)."
+        ]
+    },
+    {
+        "id": "H04M",
+        "name": "Astarte",
+        "heroClass": "Crusader",
+        "icon": "CrusaderIcon",
+        "altOf": "H01V",
+        "description": [
+            "Skin/costume variant of Astarte (Crusader)."
+        ]
+    },
+    {
+        "id": "H09O",
+        "name": "Astarte",
+        "heroClass": "Crusader",
+        "icon": "CrusaderIcon",
+        "altOf": "H01V",
+        "description": [
+            "Skin/costume variant of Astarte (Crusader)."
+        ]
+    },
+    {
+        "id": "H02S",
+        "name": "Kenneth Deracoon",
+        "heroClass": "Martial Artist",
+        "icon": "MartialArtistIcon",
+        "altOf": "H00E",
+        "description": [
+            "Skin/costume variant of Kenneth Deracoon (Martial Artist)."
+        ]
+    },
+    {
+        "id": "H030",
+        "name": "Kenneth Deracoon",
+        "heroClass": "Martial Artist",
+        "icon": "MartialArtistIcon",
+        "altOf": "H00E",
+        "description": [
+            "Skin/costume variant of Kenneth Deracoon (Martial Artist)."
+        ]
+    },
+    {
+        "id": "H03E",
+        "name": "Kenneth Deracoon",
+        "heroClass": "Martial Artist",
+        "icon": "MartialArtistIcon",
+        "altOf": "H00E",
+        "description": [
+            "Skin/costume variant of Kenneth Deracoon (Martial Artist)."
+        ]
+    },
+    {
+        "id": "H03J",
+        "name": "Kenneth Deracoon",
+        "heroClass": "Martial Artist",
+        "icon": "MartialArtistIcon",
+        "altOf": "H00E",
+        "description": [
+            "Skin/costume variant of Kenneth Deracoon (Martial Artist)."
+        ]
+    },
+    {
+        "id": "H041",
+        "name": "Kenneth Deracoon",
+        "heroClass": "Martial Artist",
+        "icon": "MartialArtistIcon",
+        "altOf": "H00E",
+        "description": [
+            "Skin/costume variant of Kenneth Deracoon (Martial Artist)."
+        ]
+    },
+    {
+        "id": "H04Y",
+        "name": "Kenneth Deracoon",
+        "heroClass": "Martial Artist",
+        "icon": "MartialArtistIcon",
+        "altOf": "H00E",
+        "description": [
+            "Skin/costume variant of Kenneth Deracoon (Martial Artist)."
+        ]
+    },
+    {
+        "id": "H095",
+        "name": "Kenneth Deracoon",
+        "heroClass": "Martial Artist",
+        "icon": "MartialArtistIcon",
+        "altOf": "H00E",
+        "description": [
+            "Skin/costume variant of Kenneth Deracoon (Martial Artist)."
+        ]
+    },
+    {
+        "id": "H036",
+        "name": "Naomi Mercedes",
+        "heroClass": "Lancer",
+        "icon": "LancerIcon",
+        "altOf": "Hblm",
+        "description": [
+            "Skin/costume variant of Naomi Mercedes (Lancer)."
+        ]
+    },
+    {
+        "id": "H03Q",
+        "name": "Naomi Mercedes",
+        "heroClass": "Lancer",
+        "icon": "LancerIcon",
+        "altOf": "Hblm",
+        "description": [
+            "Skin/costume variant of Naomi Mercedes (Lancer)."
+        ]
+    },
+    {
+        "id": "H03Y",
+        "name": "Naomi Mercedes",
+        "heroClass": "Lancer",
+        "icon": "LancerIcon",
+        "altOf": "Hblm",
+        "description": [
+            "Skin/costume variant of Naomi Mercedes (Lancer)."
+        ]
+    },
+    {
+        "id": "H058",
+        "name": "Naomi Mercedes",
+        "heroClass": "Lancer",
+        "icon": "LancerIcon",
+        "altOf": "Hblm",
+        "description": [
+            "Skin/costume variant of Naomi Mercedes (Lancer)."
+        ]
+    },
+    {
+        "id": "H07O",
+        "name": "Naomi Mercedes",
+        "heroClass": "Lancer",
+        "icon": "LancerIcon",
+        "altOf": "Hblm",
+        "description": [
+            "Skin/costume variant of Naomi Mercedes (Lancer)."
+        ]
+    },
+    {
+        "id": "H053",
+        "name": "Aurelia",
+        "heroClass": "Reaper",
+        "icon": "ReaperIcon",
+        "altOf": "H04S",
+        "description": [
+            "Skin/costume variant of Aurelia (Reaper)."
+        ]
+    },
+    {
+        "id": "H05A",
+        "name": "Aurelia",
+        "heroClass": "Reaper",
+        "icon": "ReaperIcon",
+        "altOf": "H04S",
+        "description": [
+            "Skin/costume variant of Aurelia (Reaper)."
+        ]
+    },
+    {
+        "id": "H05K",
+        "name": "Aurelia",
+        "heroClass": "Reaper",
+        "icon": "ReaperIcon",
+        "altOf": "H04S",
+        "description": [
+            "Skin/costume variant of Aurelia (Reaper)."
+        ]
+    },
+    {
+        "id": "H05V",
+        "name": "Aurelia",
+        "heroClass": "Reaper",
+        "icon": "ReaperIcon",
+        "altOf": "H04S",
+        "description": [
+            "Skin/costume variant of Aurelia (Reaper)."
+        ]
+    },
+    {
+        "id": "H08W",
+        "name": "Aurelia",
+        "heroClass": "Reaper",
+        "icon": "ReaperIcon",
+        "altOf": "H04S",
+        "description": [
+            "Skin/costume variant of Aurelia (Reaper)."
+        ]
+    },
+    {
+        "id": "H026",
+        "name": "Ayame",
+        "heroClass": "Assassin",
+        "icon": "AssassinIcon",
+        "altOf": "H004",
+        "description": [
+            "Skin/costume variant of Ayame (Assassin)."
+        ]
+    },
+    {
+        "id": "H02P",
+        "name": "Ayame",
+        "heroClass": "Assassin",
+        "icon": "AssassinIcon",
+        "altOf": "H004",
+        "description": [
+            "Skin/costume variant of Ayame (Assassin)."
+        ]
+    },
+    {
+        "id": "H02Y",
+        "name": "Ayame",
+        "heroClass": "Assassin",
+        "icon": "AssassinIcon",
+        "altOf": "H004",
+        "description": [
+            "Skin/costume variant of Ayame (Assassin)."
+        ]
+    },
+    {
+        "id": "H043",
+        "name": "Ayame",
+        "heroClass": "Assassin",
+        "icon": "AssassinIcon",
+        "altOf": "H004",
+        "description": [
+            "Skin/costume variant of Ayame (Assassin)."
+        ]
+    },
+    {
+        "id": "H022",
+        "name": "Aisha",
+        "heroClass": "Wind Mage",
+        "icon": "WindMageIcon",
+        "altOf": "H01N",
+        "description": [
+            "Skin/costume variant of Aisha (Wind Mage)."
+        ]
+    },
+    {
+        "id": "H03S",
+        "name": "Aisha",
+        "heroClass": "Wind Mage",
+        "icon": "WindMageIcon",
+        "altOf": "H01N",
+        "description": [
+            "Skin/costume variant of Aisha (Wind Mage)."
+        ]
+    },
+    {
+        "id": "H04B",
+        "name": "Aisha",
+        "heroClass": "Wind Mage",
+        "icon": "WindMageIcon",
+        "altOf": "H01N",
+        "description": [
+            "Skin/costume variant of Aisha (Wind Mage)."
+        ]
+    },
+    {
+        "id": "H05R",
+        "name": "Aisha",
+        "heroClass": "Wind Mage",
+        "icon": "WindMageIcon",
+        "altOf": "H01N",
+        "description": [
+            "Skin/costume variant of Aisha (Wind Mage)."
+        ]
+    },
+    {
+        "id": "H06E",
+        "name": "Aisha",
+        "heroClass": "Wind Mage",
+        "icon": "WindMageIcon",
+        "altOf": "H01N",
+        "description": [
+            "Skin/costume variant of Aisha (Wind Mage)."
+        ]
+    },
+    {
+        "id": "H07U",
+        "name": "Aisha",
+        "heroClass": "Wind Mage",
+        "icon": "WindMageIcon",
+        "altOf": "H01N",
+        "description": [
+            "Skin/costume variant of Aisha (Wind Mage)."
+        ]
+    },
+    {
+        "id": "H04W",
+        "name": "Catherine Yoi",
+        "heroClass": "Merchant",
+        "icon": "MerchantIcon",
+        "altOf": "H04Q",
+        "description": [
+            "Skin/costume variant of Catherine Yoi (Merchant)."
+        ]
+    },
+    {
+        "id": "H05I",
+        "name": "Catherine Yoi",
+        "heroClass": "Merchant",
+        "icon": "MerchantIcon",
+        "altOf": "H04Q",
+        "description": [
+            "Skin/costume variant of Catherine Yoi (Merchant)."
+        ]
+    },
+    {
+        "id": "H05U",
+        "name": "Catherine Yoi",
+        "heroClass": "Merchant",
+        "icon": "MerchantIcon",
+        "altOf": "H04Q",
+        "description": [
+            "Skin/costume variant of Catherine Yoi (Merchant)."
+        ]
+    },
+    {
+        "id": "H069",
+        "name": "Catherine Yoi",
+        "heroClass": "Merchant",
+        "icon": "MerchantIcon",
+        "altOf": "H04Q",
+        "description": [
+            "Skin/costume variant of Catherine Yoi (Merchant)."
+        ]
+    },
+    {
+        "id": "H06B",
+        "name": "Catherine Yoi",
+        "heroClass": "Merchant",
+        "icon": "MerchantIcon",
+        "altOf": "H04Q",
+        "description": [
+            "Skin/costume variant of Catherine Yoi (Merchant)."
+        ]
+    },
+    {
+        "id": "H072",
+        "name": "Catherine Yoi",
+        "heroClass": "Merchant",
+        "icon": "MerchantIcon",
+        "altOf": "H04Q",
+        "description": [
+            "Skin/costume variant of Catherine Yoi (Merchant)."
+        ]
+    },
+    {
+        "id": "H011",
+        "name": "Esteria",
+        "heroClass": "Thunderer",
+        "icon": "ThundererIcon",
+        "altOf": "H01H",
+        "description": [
+            "Skin/costume variant of Esteria (Thunderer)."
+        ]
+    },
+    {
+        "id": "H023",
+        "name": "Esteria",
+        "heroClass": "Thunderer",
+        "icon": "ThundererIcon",
+        "altOf": "H01H",
+        "description": [
+            "Skin/costume variant of Esteria (Thunderer)."
+        ]
+    },
+    {
+        "id": "H02J",
+        "name": "Esteria",
+        "heroClass": "Thunderer",
+        "icon": "ThundererIcon",
+        "altOf": "H01H",
+        "description": [
+            "Skin/costume variant of Esteria (Thunderer)."
+        ]
+    },
+    {
+        "id": "H03A",
+        "name": "Esteria",
+        "heroClass": "Thunderer",
+        "icon": "ThundererIcon",
+        "altOf": "H01H",
+        "description": [
+            "Skin/costume variant of Esteria (Thunderer)."
+        ]
+    },
+    {
+        "id": "H040",
+        "name": "Esteria",
+        "heroClass": "Thunderer",
+        "icon": "ThundererIcon",
+        "altOf": "H01H",
+        "description": [
+            "Skin/costume variant of Esteria (Thunderer)."
+        ]
+    },
+    {
+        "id": "H05L",
+        "name": "Esteria",
+        "heroClass": "Thunderer",
+        "icon": "ThundererIcon",
+        "altOf": "H01H",
+        "description": [
+            "Skin/costume variant of Esteria (Thunderer)."
+        ]
+    },
+    {
+        "id": "H028",
+        "name": "Elena",
+        "heroClass": "Berserker",
+        "icon": "BerserkerIcon",
+        "altOf": "H00H",
+        "description": [
+            "Skin/costume variant of Elena (Berserker)."
+        ]
+    },
+    {
+        "id": "H02Z",
+        "name": "Elena",
+        "heroClass": "Berserker",
+        "icon": "BerserkerIcon",
+        "altOf": "H00H",
+        "description": [
+            "Skin/costume variant of Elena (Berserker)."
+        ]
+    },
+    {
+        "id": "H038",
+        "name": "Elena",
+        "heroClass": "Berserker",
+        "icon": "BerserkerIcon",
+        "altOf": "H00H",
+        "description": [
+            "Skin/costume variant of Elena (Berserker)."
+        ]
+    },
+    {
+        "id": "H03D",
+        "name": "Elena",
+        "heroClass": "Berserker",
+        "icon": "BerserkerIcon",
+        "altOf": "H00H",
+        "description": [
+            "Skin/costume variant of Elena (Berserker)."
+        ]
+    },
+    {
+        "id": "H03X",
+        "name": "Elena",
+        "heroClass": "Berserker",
+        "icon": "BerserkerIcon",
+        "altOf": "H00H",
+        "description": [
+            "Skin/costume variant of Elena (Berserker)."
+        ]
+    },
+    {
+        "id": "H06M",
+        "name": "Elena",
+        "heroClass": "Berserker",
+        "icon": "BerserkerIcon",
+        "altOf": "H00H",
+        "description": [
+            "Skin/costume variant of Elena (Berserker)."
+        ]
+    },
+    {
+        "id": "H07H",
+        "name": "Elena",
+        "heroClass": "Berserker",
+        "icon": "BerserkerIcon",
+        "altOf": "H00H",
+        "description": [
+            "Skin/costume variant of Elena (Berserker)."
+        ]
+    },
+    {
+        "id": "H02O",
+        "name": "Iris Millen",
+        "heroClass": "Bow Master",
+        "icon": "BowMasterIcon",
+        "altOf": "H00Z",
+        "description": [
+            "Skin/costume variant of Iris Millen (Bow Master)."
+        ]
+    },
+    {
+        "id": "H044",
+        "name": "Iris Millen",
+        "heroClass": "Bow Master",
+        "icon": "BowMasterIcon",
+        "altOf": "H00Z",
+        "description": [
+            "Skin/costume variant of Iris Millen (Bow Master)."
+        ]
+    },
+    {
+        "id": "H057",
+        "name": "Iris Millen",
+        "heroClass": "Bow Master",
+        "icon": "BowMasterIcon",
+        "altOf": "H00Z",
+        "description": [
+            "Skin/costume variant of Iris Millen (Bow Master)."
+        ]
+    },
+    {
+        "id": "H06Q",
+        "name": "Iris Millen",
+        "heroClass": "Bow Master",
+        "icon": "BowMasterIcon",
+        "altOf": "H00Z",
+        "description": [
+            "Skin/costume variant of Iris Millen (Bow Master)."
+        ]
+    },
+    {
+        "id": "H08Z",
+        "name": "Iris Millen",
+        "heroClass": "Bow Master",
+        "icon": "BowMasterIcon",
+        "altOf": "H00Z",
+        "description": [
+            "Skin/costume variant of Iris Millen (Bow Master)."
+        ]
+    },
+    {
+        "id": "H02G",
+        "name": "Isabelle che Nyderre",
+        "heroClass": "Knight",
+        "icon": "KnightIcon",
+        "altOf": "H000",
+        "description": [
+            "Skin/costume variant of Isabelle che Nyderre (Knight)."
+        ]
+    },
+    {
+        "id": "H039",
+        "name": "Isabelle che Nyderre",
+        "heroClass": "Knight",
+        "icon": "KnightIcon",
+        "altOf": "H000",
+        "description": [
+            "Skin/costume variant of Isabelle che Nyderre (Knight)."
+        ]
+    },
+    {
+        "id": "H03G",
+        "name": "Isabelle che Nyderre",
+        "heroClass": "Knight",
+        "icon": "KnightIcon",
+        "altOf": "H000",
+        "description": [
+            "Skin/costume variant of Isabelle che Nyderre (Knight)."
+        ]
+    },
+    {
+        "id": "H03O",
+        "name": "Isabelle che Nyderre",
+        "heroClass": "Knight",
+        "icon": "KnightIcon",
+        "altOf": "H000",
+        "description": [
+            "Skin/costume variant of Isabelle che Nyderre (Knight)."
+        ]
+    },
+    {
+        "id": "H03W",
+        "name": "Isabelle che Nyderre",
+        "heroClass": "Knight",
+        "icon": "KnightIcon",
+        "altOf": "H000",
+        "description": [
+            "Skin/costume variant of Isabelle che Nyderre (Knight)."
+        ]
+    },
+    {
+        "id": "H05E",
+        "name": "Isabelle che Nyderre",
+        "heroClass": "Knight",
+        "icon": "KnightIcon",
+        "altOf": "H000",
+        "description": [
+            "Skin/costume variant of Isabelle che Nyderre (Knight)."
+        ]
+    },
+    {
+        "id": "H07N",
+        "name": "Isabelle che Nyderre",
+        "heroClass": "Knight",
+        "icon": "KnightIcon",
+        "altOf": "H000",
+        "description": [
+            "Skin/costume variant of Isabelle che Nyderre (Knight)."
+        ]
+    },
+    {
+        "id": "H00X",
+        "name": "Karad Erin",
+        "heroClass": "Dark Knight",
+        "icon": "DarkKnightIcon",
+        "altOf": "Hmkg",
+        "description": [
+            "Skin/costume variant of Karad Erin (Dark Knight)."
+        ]
+    },
+    {
+        "id": "H02D",
+        "name": "Karad Erin",
+        "heroClass": "Dark Knight",
+        "icon": "DarkKnightIcon",
+        "altOf": "Hmkg",
+        "description": [
+            "Skin/costume variant of Karad Erin (Dark Knight)."
+        ]
+    },
+    {
+        "id": "H02H",
+        "name": "Karad Erin",
+        "heroClass": "Dark Knight",
+        "icon": "DarkKnightIcon",
+        "altOf": "Hmkg",
+        "description": [
+            "Skin/costume variant of Karad Erin (Dark Knight)."
+        ]
+    },
+    {
+        "id": "H02X",
+        "name": "Karad Erin",
+        "heroClass": "Dark Knight",
+        "icon": "DarkKnightIcon",
+        "altOf": "Hmkg",
+        "description": [
+            "Skin/costume variant of Karad Erin (Dark Knight)."
+        ]
+    },
+    {
+        "id": "H08V",
+        "name": "Karad Erin",
+        "heroClass": "Dark Knight",
+        "icon": "DarkKnightIcon",
+        "altOf": "Hmkg",
+        "description": [
+            "Skin/costume variant of Karad Erin (Dark Knight)."
+        ]
+    },
+    {
+        "id": "H01X",
+        "name": "Eustia",
+        "heroClass": "Arcane Mage",
+        "icon": "ArcaneMageIcon",
+        "altOf": "H006",
+        "description": [
+            "Skin/costume variant of Eustia (Arcane Mage)."
+        ]
+    },
+    {
+        "id": "H04E",
+        "name": "Eustia",
+        "heroClass": "Arcane Mage",
+        "icon": "ArcaneMageIcon",
+        "altOf": "H006",
+        "description": [
+            "Skin/costume variant of Eustia (Arcane Mage)."
+        ]
+    },
+    {
+        "id": "H050",
+        "name": "Eustia",
+        "heroClass": "Arcane Mage",
+        "icon": "ArcaneMageIcon",
+        "altOf": "H006",
+        "description": [
+            "Skin/costume variant of Eustia (Arcane Mage)."
+        ]
+    },
+    {
+        "id": "H092",
+        "name": "Eustia",
+        "heroClass": "Arcane Mage",
+        "icon": "ArcaneMageIcon",
+        "altOf": "H006",
+        "description": [
+            "Skin/costume variant of Eustia (Arcane Mage)."
+        ]
+    },
+    {
+        "id": "H09K",
+        "name": "Eustia",
+        "heroClass": "Arcane Mage",
+        "icon": "ArcaneMageIcon",
+        "altOf": "H006",
+        "description": [
+            "Skin/costume variant of Eustia (Arcane Mage)."
+        ]
+    },
+    {
+        "id": "H032",
+        "name": "Sherry P.",
+        "heroClass": "Water Mage",
+        "icon": "WaterMageIcon",
+        "altOf": "H002",
+        "description": [
+            "Skin/costume variant of Sherry P. (Water Mage)."
+        ]
+    },
+    {
+        "id": "H03B",
+        "name": "Sherry P.",
+        "heroClass": "Water Mage",
+        "icon": "WaterMageIcon",
+        "altOf": "H002",
+        "description": [
+            "Skin/costume variant of Sherry P. (Water Mage)."
+        ]
+    },
+    {
+        "id": "H03P",
+        "name": "Sherry P.",
+        "heroClass": "Water Mage",
+        "icon": "WaterMageIcon",
+        "altOf": "H002",
+        "description": [
+            "Skin/costume variant of Sherry P. (Water Mage)."
+        ]
+    },
+    {
+        "id": "H049",
+        "name": "Sherry P.",
+        "heroClass": "Water Mage",
+        "icon": "WaterMageIcon",
+        "altOf": "H002",
+        "description": [
+            "Skin/costume variant of Sherry P. (Water Mage)."
+        ]
+    },
+    {
+        "id": "H059",
+        "name": "Sherry P.",
+        "heroClass": "Water Mage",
+        "icon": "WaterMageIcon",
+        "altOf": "H002",
+        "description": [
+            "Skin/costume variant of Sherry P. (Water Mage)."
+        ]
+    },
+    {
+        "id": "H06A",
+        "name": "Sherry P.",
+        "heroClass": "Water Mage",
+        "icon": "WaterMageIcon",
+        "altOf": "H002",
+        "description": [
+            "Skin/costume variant of Sherry P. (Water Mage)."
+        ]
+    },
+    {
+        "id": "H013",
+        "name": "Alice Dorneea",
+        "heroClass": "Priest",
+        "icon": "PriestIcon",
+        "altOf": "H007",
+        "description": [
+            "Skin/costume variant of Alice Dorneea (Priest)."
+        ]
+    },
+    {
+        "id": "H04G",
+        "name": "Alice Dorneea",
+        "heroClass": "Priest",
+        "icon": "PriestIcon",
+        "altOf": "H007",
+        "description": [
+            "Skin/costume variant of Alice Dorneea (Priest)."
+        ]
+    },
+    {
+        "id": "H04U",
+        "name": "Alice Dorneea",
+        "heroClass": "Priest",
+        "icon": "PriestIcon",
+        "altOf": "H007",
+        "description": [
+            "Skin/costume variant of Alice Dorneea (Priest)."
+        ]
+    },
+    {
+        "id": "H052",
+        "name": "Alice Dorneea",
+        "heroClass": "Priest",
+        "icon": "PriestIcon",
+        "altOf": "H007",
+        "description": [
+            "Skin/costume variant of Alice Dorneea (Priest)."
+        ]
+    },
+    {
+        "id": "H09P",
+        "name": "Alice Dorneea",
+        "heroClass": "Priest",
+        "icon": "PriestIcon",
+        "altOf": "H007",
+        "description": [
+            "Skin/costume variant of Alice Dorneea (Priest)."
+        ]
+    },
+    {
+        "id": "H02K",
+        "name": "Frederic Kassia",
+        "heroClass": "Paladin",
+        "icon": "PaladinIcon",
+        "altOf": "H003",
+        "description": [
+            "Skin/costume variant of Frederic Kassia (Paladin)."
+        ]
+    },
+    {
+        "id": "H03V",
+        "name": "Frederic Kassia",
+        "heroClass": "Paladin",
+        "icon": "PaladinIcon",
+        "altOf": "H003",
+        "description": [
+            "Skin/costume variant of Frederic Kassia (Paladin)."
+        ]
+    },
+    {
+        "id": "H05J",
+        "name": "Frederic Kassia",
+        "heroClass": "Paladin",
+        "icon": "PaladinIcon",
+        "altOf": "H003",
+        "description": [
+            "Skin/costume variant of Frederic Kassia (Paladin)."
+        ]
+    },
+    {
+        "id": "H073",
+        "name": "Frederic Kassia",
+        "heroClass": "Paladin",
+        "icon": "PaladinIcon",
+        "altOf": "H003",
+        "description": [
+            "Skin/costume variant of Frederic Kassia (Paladin)."
+        ]
+    },
+    {
+        "id": "H07I",
+        "name": "Frederic Kassia",
+        "heroClass": "Paladin",
+        "icon": "PaladinIcon",
+        "altOf": "H003",
+        "description": [
+            "Skin/costume variant of Frederic Kassia (Paladin)."
+        ]
+    },
+    {
+        "id": "H07L",
+        "name": "Frederic Kassia",
+        "heroClass": "Paladin",
+        "icon": "PaladinIcon",
+        "altOf": "H003",
+        "description": [
+            "Skin/costume variant of Frederic Kassia (Paladin)."
+        ]
+    },
+    {
+        "id": "H02F",
+        "name": "Harang",
+        "heroClass": "Phantom Blade",
+        "icon": "PhantomBladeIcon",
+        "altOf": "H05T",
+        "description": [
+            "Skin/costume variant of Harang (Phantom Blade)."
+        ]
+    },
+    {
+        "id": "H05Z",
+        "name": "Harang",
+        "heroClass": "Phantom Blade",
+        "icon": "PhantomBladeIcon",
+        "altOf": "H05T",
+        "description": [
+            "Skin/costume variant of Harang (Phantom Blade)."
+        ]
+    },
+    {
+        "id": "H06C",
+        "name": "Harang",
+        "heroClass": "Phantom Blade",
+        "icon": "PhantomBladeIcon",
+        "altOf": "H05T",
+        "description": [
+            "Skin/costume variant of Harang (Phantom Blade)."
+        ]
+    },
+    {
+        "id": "H08Y",
+        "name": "Harang",
+        "heroClass": "Phantom Blade",
+        "icon": "PhantomBladeIcon",
+        "altOf": "H05T",
+        "description": [
+            "Skin/costume variant of Harang (Phantom Blade)."
+        ]
+    },
+    {
+        "id": "H0A7",
+        "name": "Harang",
+        "heroClass": "Phantom Blade",
+        "icon": "PhantomBladeIcon",
+        "altOf": "H05T",
+        "description": [
+            "Skin/costume variant of Harang (Phantom Blade)."
+        ]
+    },
+    {
+        "id": "H06J",
+        "name": "The Nameless One",
+        "heroClass": "Hermit",
+        "icon": "HermitIcon",
+        "altOf": "H065",
+        "description": [
+            "Skin/costume variant of The Nameless One (Hermit)."
+        ]
+    },
+    {
+        "id": "H071",
+        "name": "The Nameless One",
+        "heroClass": "Hermit",
+        "icon": "HermitIcon",
+        "altOf": "H065",
+        "description": [
+            "Skin/costume variant of The Nameless One (Hermit)."
+        ]
+    },
+    {
+        "id": "H075",
+        "name": "The Nameless One",
+        "heroClass": "Hermit",
+        "icon": "HermitIcon",
+        "altOf": "H065",
+        "description": [
+            "Skin/costume variant of The Nameless One (Hermit)."
+        ]
+    },
+    {
+        "id": "H09U",
+        "name": "The Nameless One",
+        "heroClass": "Hermit",
+        "icon": "HermitIcon",
+        "altOf": "H065",
+        "description": [
+            "Skin/costume variant of The Nameless One (Hermit)."
+        ]
+    },
+    {
+        "id": "H046",
+        "name": "Yue Tenebras",
+        "heroClass": "Witch",
+        "icon": "WitchIcon",
+        "altOf": "H066",
+        "description": [
+            "Skin/costume variant of Yue Tenebras (Witch)."
+        ]
+    },
+    {
+        "id": "H06P",
+        "name": "Yue Tenebras",
+        "heroClass": "Witch",
+        "icon": "WitchIcon",
+        "altOf": "H066",
+        "description": [
+            "Skin/costume variant of Yue Tenebras (Witch)."
+        ]
+    },
+    {
+        "id": "H070",
+        "name": "Yue Tenebras",
+        "heroClass": "Witch",
+        "icon": "WitchIcon",
+        "altOf": "H066",
+        "description": [
+            "Skin/costume variant of Yue Tenebras (Witch)."
+        ]
+    },
+    {
+        "id": "H074",
+        "name": "Yue Tenebras",
+        "heroClass": "Witch",
+        "icon": "WitchIcon",
+        "altOf": "H066",
+        "description": [
+            "Skin/costume variant of Yue Tenebras (Witch)."
+        ]
+    },
+    {
+        "id": "H08T",
+        "name": "Yue Tenebras",
+        "heroClass": "Witch",
+        "icon": "WitchIcon",
+        "altOf": "H066",
+        "description": [
+            "Skin/costume variant of Yue Tenebras (Witch)."
+        ]
+    },
+    {
+        "id": "H091",
+        "name": "Yue Tenebras",
+        "heroClass": "Witch",
+        "icon": "WitchIcon",
+        "altOf": "H066",
+        "description": [
+            "Skin/costume variant of Yue Tenebras (Witch)."
+        ]
+    },
+    {
+        "id": "H07J",
+        "name": "Noface",
+        "heroClass": "Fighter",
+        "icon": "FighterIcon",
+        "altOf": "H076",
+        "description": [
+            "Skin/costume variant of Noface (Fighter)."
+        ]
+    },
+    {
+        "id": "H082",
+        "name": "Noface",
+        "heroClass": "Fighter",
+        "icon": "FighterIcon",
+        "altOf": "H076",
+        "description": [
+            "Skin/costume variant of Noface (Fighter)."
+        ]
+    },
+    {
+        "id": "H084",
+        "name": "Noface",
+        "heroClass": "Fighter",
+        "icon": "FighterIcon",
+        "altOf": "H076",
+        "description": [
+            "Skin/costume variant of Noface (Fighter)."
+        ]
+    },
+    {
+        "id": "H094",
+        "name": "Noface",
+        "heroClass": "Fighter",
+        "icon": "FighterIcon",
+        "altOf": "H076",
+        "description": [
+            "Skin/costume variant of Noface (Fighter)."
+        ]
+    },
+    {
+        "id": "H07Y",
+        "name": "Luk",
+        "heroClass": "Trickster",
+        "icon": "TricksterIcon",
+        "altOf": "H07X",
+        "description": [
+            "Skin/costume variant of Luk (Trickster)."
+        ]
+    },
+    {
+        "id": "H085",
+        "name": "Luk",
+        "heroClass": "Trickster",
+        "icon": "TricksterIcon",
+        "altOf": "H07X",
+        "description": [
+            "Skin/costume variant of Luk (Trickster)."
+        ]
+    },
+    {
+        "id": "H086",
+        "name": "Luk",
+        "heroClass": "Trickster",
+        "icon": "TricksterIcon",
+        "altOf": "H07X",
+        "description": [
+            "Skin/costume variant of Luk (Trickster)."
+        ]
+    },
+    {
+        "id": "H09Q",
+        "name": "Luk",
+        "heroClass": "Trickster",
+        "icon": "TricksterIcon",
+        "altOf": "H07X",
+        "description": [
+            "Skin/costume variant of Luk (Trickster)."
+        ]
+    },
+    {
+        "id": "H09R",
+        "name": "Luk",
+        "heroClass": "Trickster",
+        "icon": "TricksterIcon",
+        "altOf": "H07X",
+        "description": [
+            "Skin/costume variant of Luk (Trickster)."
+        ]
+    },
+    {
+        "id": "H00U",
+        "name": "Mina",
+        "heroClass": "Shrine Priestess",
+        "icon": "ShrinePriestessIcon",
+        "altOf": "H08G",
+        "description": [
+            "Skin/costume variant of Mina (Shrine Priestess)."
+        ]
+    },
+    {
+        "id": "H09A",
+        "name": "Mina",
+        "heroClass": "Shrine Priestess",
+        "icon": "ShrinePriestessIcon",
+        "altOf": "H08G",
+        "description": [
+            "Skin/costume variant of Mina (Shrine Priestess)."
+        ]
+    },
+    {
+        "id": "H09T",
+        "name": "Mina",
+        "heroClass": "Shrine Priestess",
+        "icon": "ShrinePriestessIcon",
+        "altOf": "H08G",
+        "description": [
+            "Skin/costume variant of Mina (Shrine Priestess)."
+        ]
+    },
+    {
+        "id": "H00O",
+        "name": "Maru",
+        "heroClass": "Lightseeker",
+        "icon": "LightseekerIcon",
+        "altOf": "H09M",
+        "description": [
+            "Skin/costume variant of Maru (Lightseeker)."
+        ]
+    },
+    {
+        "id": "H09Y",
+        "name": "Maru",
+        "heroClass": "Lightseeker",
+        "icon": "LightseekerIcon",
+        "altOf": "H09M",
+        "description": [
+            "Skin/costume variant of Maru (Lightseeker)."
+        ]
+    },
+    {
+        "id": "H0A0",
+        "name": "Maru",
+        "heroClass": "Lightseeker",
+        "icon": "LightseekerIcon",
+        "altOf": "H09M",
+        "description": [
+            "Skin/costume variant of Maru (Lightseeker)."
+        ]
+    },
+    {
+        "id": "H01U",
+        "name": "Yuzuka",
+        "heroClass": "Blaster",
+        "icon": "BlasterIcon",
+        "altOf": "H09N",
+        "description": [
+            "Skin/costume variant of Yuzuka (Blaster)."
+        ]
+    },
+    {
+        "id": "H09Z",
+        "name": "Yuzuka",
+        "heroClass": "Blaster",
+        "icon": "BlasterIcon",
+        "altOf": "H09N",
+        "description": [
+            "Skin/costume variant of Yuzuka (Blaster)."
+        ]
+    },
+    {
+        "id": "H01Q",
+        "name": "Celeste",
+        "heroClass": "Sword Saint",
+        "icon": "SwordSaintIcon",
+        "altOf": "H019",
+        "description": [
+            "Skin/costume variant of Celeste (Sword Saint)."
+        ]
+    },
+    {
+        "id": "H0AA",
+        "name": "Celeste",
+        "heroClass": "Sword Saint",
+        "icon": "SwordSaintIcon",
+        "altOf": "H019",
+        "description": [
+            "Skin/costume variant of Celeste (Sword Saint)."
+        ]
     }
 ]

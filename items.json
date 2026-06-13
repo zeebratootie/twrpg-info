@@ -27561,7 +27561,30 @@
     "id": "I0LM",
     "name": "Illumination",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Staff)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack Power +9000",
+        "Intelligence +1000",
+        "HP +3000",
+        "All attribute efficiency +5%"
+      ],
+      "effects": [
+        "Activate revelation upon equipping: when casting the skill, reduce damage taken by allies within a 500 radius by 5% for 6 seconds and restore (Intelligence x0.2) HP every 2 seconds; when healing an ally, increase the target's skill damage by 17.5% for 8 seconds [Type-B].",
+        "Grants power upon use: consumes 50 stacks upon use to increase the target's final damage by 10% and regenerate HP by 15% per second for 8 seconds; stacks recover by 1 every 1-0.7 seconds in proportion to the number of nearby friendly units (max 100)."
+      ]
+    },
+    "materials": [
+      "Gate of Abyss",
+      "Harmonia, the Flame of Life",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Blessing of the Earth (Earth Goddess Gaia)",
+      "Cursed Soul (Styrix the Soul Harvester)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   },
   {
     "id": "I0LL",
@@ -27573,13 +27596,61 @@
     "id": "I0LK",
     "name": "Primal Shard",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Staff)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack power +10000",
+        "Intelligence +1100",
+        "HP +2000",
+        "Skill Damage +15%",
+        "Water attribute efficiency +15%",
+        "Dark attribute efficiency +10%"
+      ],
+      "effects": [
+        "Eternal Frost activates upon 5 consecutive skill hits: increases the damage of the next 5 skills dealt to the target by (Intelligence x9) for 3 seconds. Cooldown: 6 seconds.",
+        "Activates Nightmare Shard when used: slam down a Corrupted Shard, dealing Intelligence x75 Magic Damage and amplifying skill damage dealt to the target by 15% for 8 seconds. Cooldown: 60 seconds."
+      ]
+    },
+    "materials": [
+      "Endless Snow",
+      "Picture Side (Soul Reaper Styrix)",
+      "Guardian of the Earth (Gaia)",
+      "Magic Core (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)",
+      "Celestial Knot (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I0LJ",
     "name": "Heart of Lion",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Melee)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack Power +15500",
+        "Main Stat +700",
+        "Skill Damage +12.5%",
+        "Movement speed +75"
+      ],
+      "effects": [
+        "Heart Splitter activates upon attack: deals Attack Power x1.5 Magic Damage and increases Attack Power by 1250 for 5 seconds (max 4 stacks); activates after casting a skill 2 times or attacking 14 times.",
+        "Retribution triggered upon use: engraving marks in the four directions of the designated target; when attacking from the direction of the mark, consume the mark and deal Attack Power x4.5 Magic Damage; consuming all marks deals an additional 350,000 magic damage and stuns the target for 2 seconds. Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Caedis, the Sword of Slaughter",
+      "Picture Side (Soul Reaper Styrix)",
+      "Guardian of the Earth (Gaia)",
+      "Magic Core (Ancient Magic Machine)",
+      "Cursed Soul (Styrix the Soul Harvester)",
+      "Celestial Knot (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I0LI",
@@ -27597,7 +27668,31 @@
     "id": "I0LG",
     "name": "Apocalypse Prime",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Gun)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack power +14500",
+        "Agility +1050",
+        "HP +2500",
+        "Critical hit multiplier +0.5x"
+      ],
+      "effects": [
+        "Reloading a Bullet of Despair every 3 seconds: on the next attack, deals (Attack Power x1.6 + Primary Stat x9) magic damage and stuns for 0.25 seconds; deals 25% additional damage to enemies with 50% or less HP; up to 4 charges possible.",
+        "Apocalypse is activated when casting T skill: final damage increased by 10% [Type-B] for 8 seconds, and pure attack speed increased by 50%.",
+        "Exclusive effect (Gunner): when casting Roll, reload 1 Bullet of Despair.",
+        "Exclusive effect (Shooter): Break Shot damage increased by 60%, knockback distance reduced by 50%, and consecutive hits of Distortion reset the cooldown of Break Shot instead of causing knockback."
+      ]
+    },
+    "materials": [
+      "Final Omen",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Picture Side (Soul Reaper Styrix)",
+      "Sinister Skull (Styrix the Soul Harvester)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I0LF",
@@ -28149,7 +28244,31 @@
     "id": "I0ET",
     "name": "Eye of Truth",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Headwear",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +175",
+        "All stats +250",
+        "Main stat +250",
+        "Skill Damage +10%",
+        "Damage received -5%"
+      ],
+      "effects": [
+        "Insight triggers when attacking: increases Attack Power by 500 and Activation Damage by 5% for 3 seconds (stacks up to 3 times; activation cooldown: 1 second); deals 3,000 additional damage when attacking at maximum stacks.",
+        "Activates Mind's Eye when casting ultimate skill: stack Insight to maximum for 6 seconds and increase Final Damage by 7.5% [Type-B]."
+      ]
+    },
+    "materials": [
+      "Mask of Truth (Ancient Magic Machine)",
+      "The Gown of Life (Gaia)",
+      "The Sun Stone (Kamael, the Guide of Light)",
+      "Flower of the Soul (Duke Lazarus)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Cursed Soul (Styrix the Soul Harvester)"
+    ]
   },
   {
     "id": "I0ER",
@@ -28377,7 +28496,32 @@
     "id": "I05E",
     "name": "Crimson Whisper",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Bow)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack power +13000",
+        "Strength +500",
+        "Agility +1050",
+        "Attack speed +40%",
+        "Skill damage +5%"
+      ],
+      "effects": [
+        "Activates when attacking: fires 1-2 additional arrows that deal 20% of Attack Power as pure damage (average of 1.8 arrows); these arrows trigger the 'Trigger on Attack' effect and can hit with a critical strike.",
+        "Activates bloody mark when attacking: leaves a mark on the target, increasing skill damage inflicted on the target by 5% for 5 seconds and accumulating blood energy when attacking (maximum 50); when the effect expires or maximum stack is reached, the stacked blood explodes dealing (Attack Power x0.1 + Agility x1) x stack magic damage. Cooldown: 15 seconds.",
+        "Exclusive effect (sniper): Storm Shaft - increases maximum stacks by 1, reduces cooldown by 33%."
+      ]
+    },
+    "materials": [
+      "Lion's Bow Agnitus",
+      "Picture Side (Soul Reaper Styrix)",
+      "Crystal of the Earth (Earth God Gaia)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Sinister Skull (Styrix the Soul Harvester)",
+      "Celestial Knot (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I058",
@@ -28443,19 +28587,86 @@
     "id": "I02Z",
     "name": "Coil of Ouroboros",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Wings",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "All stats +450",
+        "Attack Speed +15%",
+        "Skill Damage +20%",
+        "Movement speed +50"
+      ],
+      "effects": [
+        "Activates Infinite Ring when used: increases primary stat by 250 for 10 seconds, increases skill damage by 5%; when casting a skill while in effect, the effect is amplified by (15 x casting constant)% up to 100%, and when the maximum is reached, resources are recovered by 33%. Cooldown: 30 seconds.",
+        "Chance to trigger regression when casting a skill: activates with a 6% chance, resets all skill cooldowns except for the ultimate after 2 seconds, and restores 100% of HP and resources. Cooldown: 90 seconds."
+      ]
+    },
+    "materials": [
+      "Wings of Creation",
+      "Ring of Eternity",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Sinister Skull (Styrix the Soul Harvester)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I02Y",
     "name": "Herald of the Void",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Armor",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +240",
+        "Agility +550",
+        "Movement speed +50",
+        "Skill Damage +18%"
+      ],
+      "effects": [
+        "Stacking Void Aura during battle: stackable up to 100, gain 4 per second during combat, 1 per skill hit (Cooldown: 0.3 seconds); increases agility by 3 and HP by 40 per stack; when stacked more than 50 times, skill damage is increased by 6% and HP regenerates by 2% per second.",
+        "Abyss Break activates when used: available when at least 50 stacks are available, lasts for (stacks / 10) seconds; deals magic damage equal to 40-60 x Agility to enemies within the surrounding range in proportion to the stack and stuns them for 2 seconds; final damage increases by 8-12% for the duration in proportion to stacks consumed; unable to acquire Void Energy for 5 seconds after expiration."
+      ]
+    },
+    "materials": [
+      "Nebedium, Armor of the Demon Blood",
+      "The Gown of Life (Gaia)",
+      "Blood Crystal (Duke Lazarus)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Sinister Skull (Styrix the Soul Harvester)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   },
   {
     "id": "I02X",
     "name": "Animus, the Robe of Souls",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Armor",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +240",
+        "Intelligence +650",
+        "Movement speed +50",
+        "Skill Damage +20%"
+      ],
+      "effects": [
+        "Create a soul ring during battle: creates 5 orbiting soul spheres to deal 7500 + Intelligence x2 magic damage to enemies hit, and gains stacks if the target is a boss unit (maximum 20 stacks); +30 Intelligence per stack, skill damage amplified by 0.3%, and at maximum stack deals 40x Intelligence magic damage to nearby enemies, skill damage amplified by an additional 6%, and sphere damage increased by 50% (stacks disappear after 6 seconds).",
+        "Adjust Soul Ring radius when used."
+      ]
+    },
+    "materials": [
+      "Robe of Sacrifice Sangis",
+      "The Gown of Life (Gaia)",
+      "Magic Core (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)",
+      "Celestial Knot (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I02U",
@@ -28467,7 +28678,30 @@
     "id": "I02R",
     "name": "Bag of Sentience",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Bag)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack power +8000",
+        "All stats +750",
+        "Recovery amount +15%",
+        "Magic defense +15%"
+      ],
+      "effects": [
+        "Throws forbidden elixir when used: removes all debuffs from the target, restores 100% HP, and grants debuff immunity for 3 seconds; duration 15 seconds; charging time 15 seconds (up to 2 charges).",
+        "Exclusive effect (Peddler - Very light bag): take out 2 when casting; Throwable Healing Potion charge cycle reduced to 2 seconds, max installations +3; Life Shield Scroll +5 seconds duration, reduces damage taken by target by 15%; Money Splash changed to Pandora's Box [Passive: every 2 seconds, low chance to reset the cooldown of a random ally skill (except ultimate); Active: channels up to 2.5 seconds reducing damage taken by allies within 650 by 70% and granting immunity to damage/debuffs/CC, grants Pandora's Blessing increasing all stats by (350 + 2.5 x sum of 3 highest attribute efficiencies) for 7.5 seconds. Cooldown: 30 seconds]."
+      ]
+    },
+    "materials": [
+      "Backpack of All Things",
+      "The Gown of Life (Gaia)",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Blood Crystal (Duke Lazarus)",
+      "Cursed Soul (Styrix the Soul Harvester)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   },
   {
     "id": "I02B",
@@ -28491,25 +28725,115 @@
     "id": "I01Y",
     "name": "Cage of Shadow Fiend",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Armor",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +300",
+        "All stats +400",
+        "Magic Defense +10%",
+        "Dark attribute efficiency +5%"
+      ],
+      "effects": [
+        "Activates Shadow Lord's Power upon equipping: increases the stats of surrounding allies by 8% [Type-A] and increases damage received by surrounding enemies by 4% [Type-B]; absorbs the energy of surrounding enemies every 3 seconds, dealing 40,000 magic damage and absorbing (3 + 1 x absorbed enemies) stacks (maximum 60 stacks); absorbs 6 stacks (normal enemy) / 15 stacks (ally hero or boss) when a unit dies nearby.",
+        "Shadow Sweep activates when used: consumes 60 stacks to inflict 300,000 magic damage to enemies in the target area and increase damage taken by 8% for 6 seconds [Type-B]."
+      ]
+    },
+    "materials": [
+      "Twisted Soul Armor",
+      "Fragment of the Twisted Ruins (Earth God Gaia)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I01W",
     "name": "Plates of Dawn",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Armor",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +300",
+        "Strength +600",
+        "Skill Damage +20%"
+      ],
+      "effects": [
+        "Summon Moon Rune every 3 seconds: reduces damage taken by 3% per summoned rune (maximum 5); when an attack or skill hits, consumes 1 rune to activate Moonlight Fall (deals (12000 + Max HP x1.5) magic damage; increases strength by 70 and attack power by 500 for 10 seconds, maximum 5 stacks; activation cooldown: 0.5 seconds).",
+        "Activates Dawn's Resolve upon use: the Moon Rune is fixed at maximum for 5 seconds and skill damage is increased by 8%; become immune to CC effects while active. Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Giant's Armor",
+      "The Sun Stone (Kamael, the Guide of Light)",
+      "Sentence of Sacrifice (Duke Lazarus)",
+      "Magic Core (Ancient Magic Machine)",
+      "Cursed Soul (Styrix the Soul Harvester)"
+    ]
   },
   {
     "id": "I01P",
     "name": "Plates of Divine Blood",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Armor",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +300",
+        "All stats +500",
+        "Movement speed +50",
+        "Skill Damage +15%",
+        "Damage Taken -10%",
+        "All attribute efficiency +5%"
+      ],
+      "effects": [
+        "Holy Blood activates upon skill casting: deals magic damage equal to all stats x4 per second to surrounding enemies for 3 seconds and regenerates 4% of HP and resources. Cooldown: 5 seconds.",
+        "Activates Holy Wrath upon use: final damage increases by 10% for 6 seconds and Holy Blood is activated with 100% amplification. Cooldown: 45 seconds."
+      ]
+    },
+    "materials": [
+      "Armor of Bloody Fury",
+      "Blood Demon Armor",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Guardian of the Earth (Gaia)",
+      "Cursed Soul (Styrix the Soul Harvester)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I01A",
     "name": "Primal Flame",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Accessory",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "All stats +550",
+        "Attack Speed +25%",
+        "Skill Damage +15%",
+        "Fire attribute efficiency +5%"
+      ],
+      "effects": [
+        "Acquire Primordial Flame upon casting skill: increases skill damage by 2.5% and continuous damage by 2.5% for 6 seconds (stacks up to 4 times).",
+        "Release the Primordial Flame upon use: all stats increase by an additional (200 + 50 x stack) for 6 seconds, and when the skill hits 5 times it deals 12.5 magic damage x the main stat (can activate as many times as the number of stacks); stack is initialized upon expiration. Cooldown: 15 seconds."
+      ]
+    },
+    "materials": [
+      "Star of worship",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Crystal of the Earth (Earth God Gaia)",
+      "Cursed Soul (Styrix the Soul Harvester)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   },
   {
     "id": "I00K",
@@ -28587,13 +28911,60 @@
     "id": "I00Z",
     "name": "Aegis of Avalon",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Wings",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "All stats +425",
+        "Magic Defense +10%",
+        "Earth Attribute Efficiency +5%",
+        "Light Attribute Efficiency +5%"
+      ],
+      "effects": [
+        "Light Reverberation activates when equipped: nearby allies' stats increase by 160 + 4% [Type-A]; when an ally recovers, the target's skill damage increases by 4% for 5 seconds.",
+        "Activates Guardian Angel when used: transform into a spirit of light for 4 seconds, allowing you to fly quickly and reducing damage taken by 75%; heals nearby allies for 4,000 HP and grants a shield that absorbs 4,000 damage for 5 seconds, and heals an additional 1,000 HP every 2 seconds for 6 seconds; transformation is canceled when casting other skills. Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Guardian Angel",
+      "Sentence of Sacrifice (Duke Lazarus)",
+      "Guardian of the Earth (Gaia)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Sinister Skull (Styrix the Soul Harvester)",
+      "Celestial Knot (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I010",
     "name": "Wings of Descender",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Wings",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack power +4000",
+        "All stats +350",
+        "Movement speed +50",
+        "Skill Damage +15%",
+        "Magic defense +7.5%"
+      ],
+      "effects": [
+        "Activate the power of the descendant when moving 500 distance: increases activation damage by 5% and deals (Attack Power x0.4 + Primary Stat x5) pure damage on the next attack (minimum cooldown: 0.1 sec); the buff deactivates 4 seconds after the attack.",
+        "Transcendence activated when used: increases final damage by 10% and movement speed for 8 seconds; the power of the descendant is activated and the gauge continues to fill up, and the next 3 strengthened attacks become area attacks and inflict 300% additional damage. Cooldown: 60 seconds."
+      ]
+    },
+    "materials": [
+      "Cloak of Endless Longing",
+      "Ruler of the Sky",
+      "Flower of the Soul (Duke Lazarus)",
+      "Crystal of the Earth (Earth God Gaia)",
+      "Soul Servant (Soul Reaper Styrix)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   },
   {
     "id": "I021",
@@ -28611,55 +28982,260 @@
     "id": "I023",
     "name": "Sunstone",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Accessory",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "All stats +450",
+        "Skill Damage +10%",
+        "Attack Speed +20%"
+      ],
+      "effects": [
+        "Sun's Blessing activates upon use: increases main stats by 150-450 for 15 seconds in proportion to lost HP, and recovers 60% of lost HP. Cooldown: 30 seconds.",
+        "Sun's Blessing activates upon death: resurrect after 3 seconds. Cooldown: 180 seconds."
+      ]
+    },
+    "dropped_by": [
+      "Lightbringer Kamael"
+    ],
+    "droprate": 0.004
   },
   {
     "id": "I024",
     "name": "Godslayer Signet",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Accessory",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Strength +575",
+        "Agility +550",
+        "Continuous damage +40%",
+        "Received healing amount -40%"
+      ],
+      "effects": [
+        "Activates the Last Stand of the Gods with a chance on attack: 20% chance; attack power increases by 10500 for 7.5 seconds, primary stat and HP regeneration rate increase by 600; the next 3 attacks and every 6th attack thereafter inflict additional pure damage equal to 125% of attack power and apply Mark of the God of Death for 5 seconds (max 7 stacks); the next hit dealing more than 300,000 base damage consumes a mark and increases damage by 2% per stack. Cooldown: 15 seconds.",
+        "Activates Blasphemed Hymn upon use: consumes 75% of current HP to instantly activate the Last of the Gods. Cooldown: 60 seconds."
+      ]
+    },
+    "materials": [
+      "Bloody Curse",
+      "Guardian of the Earth (Gaia)",
+      "Magic Core (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I026",
     "name": "Soul Rift",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Bag)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack Power +10500",
+        "Strength +1000",
+        "Skill Damage +20%",
+        "Damage received +10%",
+        "Fire attribute efficiency +5%"
+      ],
+      "effects": [
+        "Exclusive effect (Peddler - Very Dangerous Backpack): Throwable Healing Potion (W) -> Throw Bomb (W) [throws a bomb that explodes after 30 seconds or upon colliding with an enemy or another bomb (maximum 10 placed); when it explodes, deals 8x Strength magic damage and leaves a mark dealing 4x Strength magic damage every 0.6 seconds for 3 seconds; causes a chain explosion of nearby bombs adding 0.5 second stun and increasing damage by 75% (max 300%)]; Life Shield Scroll (E) -> Soul Bomb (E); Holy Water of Resurrection (T) -> Cursed Doll (T)."
+      ]
+    },
+    "materials": [
+      "Backpack of Despair",
+      "Blood Rose (Duke Lazarus)",
+      "The Gown of Life (Gaia)",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Picture Side (Soul Reaper Styrix)",
+      "The Sun Stone (Kamael, the Guide of Light)"
+    ]
   },
   {
     "id": "I02C",
     "name": "Celestial Wind",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Accessory",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Main Stat +700",
+        "Attack speed +40%",
+        "Skill Damage +15%",
+        "Critical Hit Multiplier +0.25x"
+      ],
+      "effects": [
+        "Heavenly Wind activates upon skill casting: for 1.5 seconds, primary stat increases by 200, movement speed increases slightly, and when a skill hits there is a 25% chance to inflict 20% additional damage; (7.5 x activation constant)% chance to reset the cooldown of the skill.",
+        "Activates Wind Blessing when used: teleport to the target location and remove debuffs on yourself. Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Ring of the Divine Wind",
+      "Ring of Malice",
+      "Fragment of the Twisted Ruins (Earth God Gaia)",
+      "Cursed Soul OR Sinister Skeleton (Soulreaper Styrix)",
+      "Celestial Knot (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I02F",
     "name": "Guardian of Sky and Earth",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Armor",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +350",
+        "Strength +550",
+        "Agility +250",
+        "Intelligence +250",
+        "Damage Taken -12%",
+        "Earth Attribute Efficiency +5%"
+      ],
+      "effects": [
+        "Activates Heaven and Earth Protection when equipped: regenerates 1% of HP per second for allies within an 800 radius, reduces damage taken by 4%, and increases final damage by (your magic defense + damage reduction rate) x 2%.",
+        "Cosmos activates when used: for 5 seconds, restores 8% of HP per second to allies within an 800 radius, increases Magic Defense by 100%, and grants debuff immunity. Cooldown: 75 seconds."
+      ]
+    },
+    "materials": [
+      "Harmony of Heaven and Earth",
+      "Flower of the Soul (Duke Lazarus)",
+      "Guardian of the Earth (Gaia)",
+      "Cursed Soul (Styrix the Soul Harvester)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I02G",
     "name": "Celestial Crown",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Headwear",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +150",
+        "All stats +375",
+        "Critical Hit Chance +10%",
+        "Wind attribute efficiency +12%",
+        "Water attribute efficiency +8%",
+        "Light attribute efficiency +8%"
+      ],
+      "effects": [
+        "Grants beneficial effects when assisting allies: 15% chance to grant Clear Mind upon healing - recovers (HP x2% + Intelligence x0.15) and 1.4% MP per second for 5 seconds, increases skill damage by 10%; grants Divine Power upon Debuff Removal - increases Final Damage by 2% & Movement Speed by 30 for 5 seconds.",
+        "When used, activates the Heavenly Voice: removes debuffs from allies within a 900 range and grants Clearness for 10 seconds. Cooldown: 75 seconds."
+      ]
+    },
+    "materials": [
+      "Crown of Purification",
+      "The Sun Stone (Kamael, the Guide of Light)",
+      "Fragment of the Twisted Ruins (Earth God Gaia)",
+      "Magic Core (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)",
+      "Sinister Skull OR Cursed Soul (Styrix the Soul Harvester)"
+    ]
   },
   {
     "id": "I02H",
     "name": "Void Seraph",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Wings",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Main stat +550",
+        "HP +2000",
+        "Attack Speed +15%",
+        "Skill Damage +15%",
+        "Fire attribute efficiency +10%",
+        "Dark attribute efficiency +5%"
+      ],
+      "effects": [
+        "Dark Flame activates when a skill hits: deals 15,000 additional damage, increases fire attribute effectiveness by 1%, debuff skill effectiveness by 3%, and MP regeneration rate by 5 for 3 seconds (stacks up to 5 times). Cooldown: 0.4 seconds.",
+        "Activates Empty Prayer when used: removes debuffs on yourself; damage taken is reduced by 75% for 1.5 seconds, CC effects are ignored, and movement speed increases. Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Wings of Divine Origin",
+      "Blood Devourer",
+      "Sinister Skull (Styrix the Soul Harvester)",
+      "Celestial Knot (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I02I",
     "name": "Heaven's Fall",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Gun)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack power +9500",
+        "Agility +450",
+        "Intelligence +950",
+        "Attack speed +35%"
+      ],
+      "effects": [
+        "Blessing activates when an ally recovers: increases target's skill damage and recovery amount by 15% for 6 seconds; when healing others 20 times, grants an awakening effect increasing skill damage by an additional 10% for 6 seconds.",
+        "Heaven's Fall activates when used: drops a cross on the target area dealing 20x Intelligence magic damage and stunning for 1 second; leaves a sanctuary for 6 seconds recovering 1 x Intelligence per second for allies above, dealing 3 x Intelligence magic damage per second to enemies and increasing damage taken by 5%; recharge once every 10 seconds (maximum 3 recharges).",
+        "Exclusive effect (Shooter): Twin Star - restores HP of allies hit by Intelligence x0.75; Nanomachine Injection - increases duration by 100% and grants debuff immunity."
+      ]
+    },
+    "materials": [
+      "Abyss Fall",
+      "Heaven's Door",
+      "Grim Side (Soul Reaper Styrix)",
+      "Crystal of the Earth (Earth God Gaia)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I02J",
     "name": "Exsolus, the Armor of the Absolute",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Armor",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +275",
+        "Strength +200",
+        "Agility +575",
+        "Skill Damage +18%",
+        "Critical Hit Chance +15%"
+      ],
+      "effects": [
+        "Apply the Absolute's Mark when attacking: final damage inflicted on the target for 4 seconds increases by up to 10% in proportion to the target's lost HP; every 20th attack triggers a devastating blow, dealing 40,000 pure damage (attack hit).",
+        "Sanctuary is activated when HP falls below 20%: ignore incoming damage and CC effects for 6 seconds; upon expiration, deal pure damage equal to Agility x60-120 proportional to the target's missing HP to enemies within 1000 radius, and restore 100% of your HP. Cooldown: 60 seconds.",
+        "Exclusive effect (dancer): during Nameless Fist, damage taken is reduced by 20% and you become immune to instant death attacks."
+      ]
+    },
+    "materials": [
+      "Exitium, Armor of Destruction",
+      "Crystal of the Earth (Earth God Gaia)",
+      "Magic Core (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)",
+      "Celestial Knot (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I02K",
@@ -28671,7 +29247,31 @@
     "id": "I02L",
     "name": "Frostmoon Crown",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Headwear",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +165",
+        "All stats +400",
+        "Skill Damage +20%",
+        "HP & MP +1500",
+        "Water attribute efficiency +12.5%",
+        "Dark attribute efficiency +5%"
+      ],
+      "effects": [
+        "When a skill hits, there is a chance that Dark Frost will be activated: deals 45,000 magic damage to the target and nearby enemies, and restores 4% of your resources. Cooldown: 2.5 seconds.",
+        "Dark Eclipse activates when used: increases all stats by 400 and skill damage by 15% for 10 seconds; while active, become immune to CC effects, double the chance of Darkfrost activating, and reduce its cooldown by 50%. Cooldown: 60 seconds (decreases by 3 seconds each time Darkfrost is activated)."
+      ]
+    },
+    "materials": [
+      "Crown of Transcendence",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Blood Crystal (Duke Lazarus)",
+      "Sinister Skull (Styrix the Soul Harvester)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I02N",
@@ -28695,19 +29295,87 @@
     "id": "I030",
     "name": "Madness of Old Gods",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Headwear",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +150",
+        "Agility +550",
+        "HP +2000",
+        "Skill Damage +15%",
+        "Critical hit multiplier +0.10x"
+      ],
+      "effects": [
+        "Destruction triggers when a skill critically hits: deals 60,000 additional damage and recovers 3% HP; 1 charge every 3 seconds (maximum 3 charges).",
+        "Activates Oath of Destruction when used: for 10 seconds, primary stats increase by 300, critical multiplier by 0.25x, and movement speed by 150; when casting a skill, stat gain increases by 10% and Ruin gains 1 charge (maximum 10 charges). Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Mask of the Demigod",
+      "Picture Side (Soul Reaper Styrix)",
+      "Flower of the Soul (Duke Lazarus)",
+      "Fragment of the Twisted Ruins (Earth God Gaia)",
+      "Magic Core (Ancient Magic Machine)",
+      "Dew of Paradise (Kamael, the Lightbringer)"
+    ]
   },
   {
     "id": "I031",
     "name": "Codex of Light",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Accessory",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "All stats +525",
+        "Movement speed +50",
+        "Wind Attribute Efficiency +5%",
+        "Light Attribute Efficiency +10%"
+      ],
+      "effects": [
+        "Hope is activated when a skill hits an ally: lasts 12 seconds on a single effect hit, 1.5 seconds on a recovery effect hit; increases target's skill damage by 12% and primary stat by 210; increases the effectiveness of all your attributes by 0.6% for each ally affected by Hope (excluding yourself) (maximum 5 stacks).",
+        "Activates Salvation upon use: removes debuffs from allies affected by Hope and recovers HP by 50%; reduces damage taken by 20% for 5 seconds and temporarily increases movement speed. Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Servant of the Divine",
+      "Mask of Truth (Ancient Magic Machine)",
+      "Guardian of the Earth (Gaia)",
+      "Cursed Soul (Styrix the Soul Harvester)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   },
   {
     "id": "I032",
     "name": "Cape of the Saint",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Wings",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Main Stat +500",
+        "HP +2000",
+        "All attribute efficiency +5%"
+      ],
+      "effects": [
+        "Activates the power of the saint when equipped: skill damage increases by 10%, damage taken decreases by 15% [Type-A], movement speed increases by 75; when HP drops below 1, Saint's Blessing is activated, regenerating 40% HP per second for 5 seconds and blocking harmful effects except instant death (Cooldown: 180 seconds).",
+        "Devotion activates upon use: grants the target the Saint's Power effect; the cooldown of Saint's Blessing is shared, and the effect is removed if reused on yourself or if the target moves more than 3000 distance away. Cooldown: 15 seconds."
+      ]
+    },
+    "materials": [
+      "Wings of the Immortal",
+      "Lazarus's Heirloom",
+      "The Sun Stone (Kamael, the Guide of Light)",
+      "Crystal of the Earth (Earth God Gaia)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Cursed Soul (Styrix the Soul Harvester)"
+    ]
   },
   {
     "id": "I033",
@@ -28737,13 +29405,57 @@
     "id": "I037",
     "name": "Dark Lotus",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Accessory",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "All stats +500",
+        "MP Regeneration Rate +35",
+        "Dark attribute efficiency +7.5%"
+      ],
+      "effects": [
+        "Activates Seed of Darkness upon hitting with a single skill: increases magic damage received by 5% for 10 seconds [Type-B]; deals 2.5x primary stat magic damage per second.",
+        "Activates Night's Full Bloom upon use: deals Main Stat x30 pure damage to enemies afflicted with Seed of Darkness and stuns them for 2 seconds; for 5 seconds, strengthens Seed of Darkness, increasing target's magic damage taken by 11% and doubling the damage and damage cycle. Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Ring of Despair",
+      "Seal of Corruption",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Sinister Skull (Styrix the Soul Harvester)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   },
   {
     "id": "I03A",
     "name": "Primordial Heart",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Accessory",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Main Stat +600",
+        "HP +2500",
+        "Attack Speed +15%",
+        "Water attribute efficiency +5%",
+        "Earth Attribute Efficiency +10%"
+      ],
+      "effects": [
+        "Enhance nearby allies with primordial energy: increases attack power by 0.7 (maximum 3000) and attack speed by 25%; when an ally recovers, increases target's skill damage by 1.5% and all attribute efficiency by 0.3% for 3 seconds (stacks up to 5 times).",
+        "Activates Healing Pulse upon use: restores 6% of the target's HP and removes debuffs every 0.5 seconds for 3 seconds; the target's HP will not drop below 1 during the duration. Cooldown: 15 seconds (maximum 2 charges)."
+      ]
+    },
+    "materials": [
+      "Heart of life",
+      "The Sun Stone (Kamael, the Guide of Light)",
+      "Crystal of the Earth (Earth God Gaia)",
+      "Magic Core (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)"
+    ]
   },
   {
     "id": "I03E",
@@ -28761,7 +29473,30 @@
     "id": "I03J",
     "name": "Soulrender",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Shared)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack power +13000",
+        "Main stat +1150",
+        "Attack speed +35%",
+        "Skill Damage +12.5%"
+      ],
+      "effects": [
+        "When dealing damage to an enemy with less than 50% HP, Abyssal Threshold is activated: final damage increases by 17.5% for 5 seconds [Type-B].",
+        "Soul Render activates when used: throws a spear at a target, marking them for 20 seconds and dealing 250,000 magic damage and stunning them for 1 second; when a skill hits a marked target 5 times, deals 30,000 magic damage and activates Soul Steal, increasing primary stat by 15 (up to 5 times per cast; stacks up to 30 times); deals 50% additional damage to elite and regular units; if the marked target dies, the cooldown is reset and 10 stacks of Soul Steal are applied. Cooldown: 20 seconds (minimum recast time: 10 seconds)."
+      ]
+    },
+    "materials": [
+      "Heart Render",
+      "Picture Side (Soul Reaper Styrix)",
+      "The Sun Stone (Kamael, the Guide of Light)",
+      "Fragment of the Twisted Ruins (Earth God Gaia)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)"
+    ]
   },
   {
     "id": "I03M",
@@ -28809,12 +29544,60 @@
     "id": "I03V",
     "name": "Ordius, the Divine Lance",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Weapon (Melee)",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Attack Power +13500",
+        "Strength +1250",
+        "Agility +350",
+        "Intelligence +1000",
+        "Skill Damage +20%",
+        "Critical Hit Multiplier +0.2x"
+      ],
+      "effects": [
+        "Charge Divine Power while moving: charges when moving 5000 distance, and imprints Mark of Light for 6 seconds upon hitting a target while charged (activation cooldown: 15 seconds); Mark of Light amplifies skill damage dealt to the target by 14%, and upon 6 amplifications strikes with lightning dealing critical magic damage equal to Main Stat x20.",
+        "Activates Judgment of Light upon use: drop the Spear of Judgment to deal critical magic damage equal to Main Stat x30 and imprint the Mark of Light (lightning strikes from an already imprinted Mark activate immediately). Cooldown: 60 seconds."
+      ]
+    },
+    "materials": [
+      "Window of Judgment",
+      "Pulminata, the Guide of Thunder",
+      "Picture Side (Soul Reaper Styrix)",
+      "The Sun Stone (Kamael, the Guide of Light)",
+      "Guardian of the Earth (Gaia)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   },
   {
     "id": "I03W",
     "name": "Righteous Flame",
     "koreanname": "",
-    "description": ""
+    "description": "",
+    "type": "Headwear",
+    "rank": "[Epic]",
+    "level": 100,
+    "stats": {
+      "bonuses": [
+        "Defense +180",
+        "All stats +450",
+        "Skill Damage +15%",
+        "Attack speed +10%",
+        "Fire attribute efficiency +10%",
+        "Light Attribute Efficiency +5%"
+      ],
+      "effects": [
+        "Activates Holy Fire upon use: consumes 50% of current HP; for 15 seconds, all stats increase by 1.5% of consumed HP (Main stats by 2%) and Fire attribute efficiency increases by 10%; when dealing magic damage while active, envelops the target in flames dealing 15,000 additional magic damage and stacking Holy Fire (cooldown 0.75 sec) [Holy Fire: skill damage +1%, Fire/Light attribute efficiency +0.3%, stacks up to 10 times]; upon reuse, deals 40-60 damage to the target area equal to the main stat (proportional to stacked Holy Flames); can only be activated once during duration. Cooldown: 30 seconds."
+      ]
+    },
+    "materials": [
+      "Crown of Cataclysm",
+      "Sentence of Sacrifice (Duke Lazarus)",
+      "Ancient Secretary (Ancient Magic Machine)",
+      "Soul Servant (Soul Reaper Styrix)",
+      "Sacred Lotus (Kamael, Guide of Light)"
+    ]
   }
 ]
