@@ -26922,6 +26922,12 @@
     "description": ""
   },
   {
+    "id": "I0SA",
+    "name": "Ticket - Paradise",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0S9",
     "name": "Eye of the Blood God",
     "koreanname": "",
@@ -27072,8 +27078,20 @@
     "description": ""
   },
   {
+    "id": "I0RF",
+    "name": "Change Difficulty",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0RE",
     "name": "Crescendo of Madness",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0RD",
+    "name": "Ticket - Seaside",
     "koreanname": "",
     "description": ""
   },
@@ -27098,6 +27116,12 @@
   {
     "id": "I0R8",
     "name": "Lightbringer's Token",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0R5",
+    "name": "Coin Conversion",
     "koreanname": "",
     "description": ""
   },
@@ -27186,6 +27210,12 @@
     "description": ""
   },
   {
+    "id": "I0QN",
+    "name": "Exchange Coin of Effort",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0QL",
     "name": "Crab Rod",
     "koreanname": "",
@@ -27230,6 +27260,24 @@
   {
     "id": "I0QC",
     "name": "Skylord",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0QA",
+    "name": "Forfeit Loot",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q6",
+    "name": "Ticket - Prius Forward Camp",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0Q5",
+    "name": "Ticket - Volcanic Lands",
     "koreanname": "",
     "description": ""
   },
@@ -27306,6 +27354,12 @@
     "description": ""
   },
   {
+    "id": "I0PL",
+    "name": "Exchange Coin of Effort",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0PK",
     "name": "Warm Soul Aura",
     "koreanname": "",
@@ -27320,6 +27374,12 @@
   {
     "id": "I0PI",
     "name": "Halloween Spider",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0PH",
+    "name": "Exchange Coin of Effort",
     "koreanname": "",
     "description": ""
   },
@@ -27426,8 +27486,20 @@
     "description": ""
   },
   {
+    "id": "I0NY",
+    "name": "Purchase Rare Items",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0NX",
     "name": "Sell Rare Items",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0N2",
+    "name": "Craft",
     "koreanname": "",
     "description": ""
   },
@@ -27546,6 +27618,12 @@
     "description": ""
   },
   {
+    "id": "I0M6",
+    "name": "Exchange Winter Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0M5",
     "name": "Rabbit Rod",
     "koreanname": "",
@@ -27560,6 +27638,12 @@
   {
     "id": "I0M3",
     "name": "Meat",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0LQ",
+    "name": "Exchange Halloween Costume",
     "koreanname": "",
     "description": ""
   },
@@ -27632,6 +27716,12 @@
   {
     "id": "I0LA",
     "name": "Blue Lotus Aura",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0L7",
+    "name": "Wish (Normal)",
     "koreanname": "",
     "description": ""
   },
@@ -27782,6 +27872,12 @@
   {
     "id": "I0J1",
     "name": "Reaper Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0J0",
+    "name": "Super Reverse",
     "koreanname": "",
     "description": ""
   },
@@ -27956,6 +28052,12 @@
   {
     "id": "I0HM",
     "name": "Weird Costume",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I0HL",
+    "name": "Destroy Memory Stone",
     "koreanname": "",
     "description": ""
   },
@@ -28218,6 +28320,12 @@
     "description": ""
   },
   {
+    "id": "I0D3",
+    "name": "Trade Holy Water",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I0D0",
     "name": "Nature Exploration",
     "koreanname": "",
@@ -28332,6 +28440,12 @@
     "description": ""
   },
   {
+    "id": "I094",
+    "name": "Spider Cave Expedition",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I07V",
     "name": "Small Mana Heart",
     "koreanname": "",
@@ -28400,6 +28514,18 @@
   {
     "id": "I056",
     "name": "The Church Within My Castle",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I050",
+    "name": "Ticket - The Duchy of Wallachia",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I04Z",
+    "name": "Ticket - Frosty Snowfield",
     "koreanname": "",
     "description": ""
   },
@@ -28476,6 +28602,12 @@
     "description": ""
   },
   {
+    "id": "I02Q",
+    "name": "Ticket - Capital Prius",
+    "koreanname": "",
+    "description": ""
+  },
+  {
     "id": "I02B",
     "name": "Cake",
     "koreanname": "",
@@ -28514,6 +28646,12 @@
   {
     "id": "I01A",
     "name": "Primal Flame",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I00L",
+    "name": "Craft",
     "koreanname": "",
     "description": ""
   },
@@ -28778,6 +28916,12 @@
   {
     "id": "I03M",
     "name": "Witch (New Year) Rod",
+    "koreanname": "",
+    "description": ""
+  },
+  {
+    "id": "I03O",
+    "name": "Sacrifice",
     "koreanname": "",
     "description": ""
   },
